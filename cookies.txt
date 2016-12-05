@@ -8,4 +8,5 @@ twitter.com	TRUE	/	FALSE	1999999999	lang	zh-tw
 .twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A148091504279306022
 .2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device	3
 .2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device_type	0
+.2010.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	SESSd67852fc64289ab5796f16ca6522a8bc	cbc70c93f90413ddca9825855557207d
 
