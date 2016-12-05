@@ -1,0 +1,121 @@
+/* Increase the body font size on tablet devices */
+html {
+}
+
+body {
+  background:  url("../images/horizon800/index.html") no-repeat fixed center bottom, url("../images/starscape800/index.html") repeat-y fixed center center #000000;
+  background-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  margin: 7px 0 0;
+}
+
+#page-wrapper {
+    padding: 0 0.5em 1.5em;
+}
+
+/*
+ * Logo & Slogan
+ */
+
+#logo {
+    max-width: 50%;
+    margin: 1em 0;
+  padding: 0 0 0 1em;
+}
+
+
+#site-slogan {
+    display: block;
+    font-size: 23px; font-size: 2.3rem;
+    margin: -10% 10px 0 0;
+    text-align: right;
+}
+
+
+#menu-bar {
+    padding: 0;
+}
+
+#columns {
+    padding: 1em 0.5em;
+}
+
+#main-content {
+    margin: 0 1em;
+}
+
+
+/* 
+ * FOOTER 
+ */
+
+#footer {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 1em;
+}
+
+#block-menu-menu-footer-menu, #block-menu-menu-footer-menu-2, #block-menu-menu-footer-menu-3, #block-menu-menu-footer-menu-4 {
+    float: left;
+    font-size: 2rem;
+    line-height: 1.75em;
+    margin: 0 10% 0 7.5%;
+}
+
+#block-menu-menu-footer-menu-3 {
+	clear:both;
+}
+
+#block-menu-menu-footer-menu-2, #block-menu-menu-footer-menu-4 {
+margin-right: 0;
+}
+
+#block-block-1 {
+  text-align: center;
+}
+
+#block-block-4 {
+	clear: both;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+div.footerbuttons {
+	clear: both;
+    display: block;
+    margin: 0 auto;
+    width: 570px;
+    max-width: 100%;
+}
+
+div.social {
+    float: left;
+    margin-top: 50px;
+}
+
+div.dugto {
+    float: left;
+    margin: 0 30px 10px;
+    width: 25%;
+}
+
+div.pantheon {
+    display: inline-block;
+    float: left;
+    margin: 53px 0 0 20px;
+}
+
+/* SPONSORSHIP */
+
+.page-node-33 table + div {
+	display:none;
+}
+
+div.field-sponsor-logo {
+	float:left;
+	margin: 0 2em 8em 0;
+}
