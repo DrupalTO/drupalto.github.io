@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+<!-- Mirrored from 2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Dec 2016 07:01:45 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>BOF: Drupal scalability and performance for large web sites | DrupalCamp Toronto 2008</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/print/index.css" type="text/css" media="print" />
+
+<link rel="shortcut icon" href="../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/favicon/index.ico" type="image/x-icon" />
+  <style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/modules/fivestar/css/fivestar/index.css";</style>
+<style type="text/css" media="all">@import "../../modules/node/node/index.css";</style>
+<style type="text/css" media="all">@import "../../modules/system/defaults/index.css";</style>
+<style type="text/css" media="all">@import "../../modules/system/system/index.css";</style>
+<style type="text/css" media="all">@import "../../modules/user/user/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/modules/cck/content/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/modules/date/date/index.css";</style>
+<style type="text/css" media="all">@import "../../modules/comment/comment/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/style/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/tabs/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/html-elements/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/layout-garland/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/icons/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/zen-dcto/index.css";</style>
+<style type="text/css" media="all">@import "../../sites/2008.drupalcamptoronto.org/themes/zen/block-editing/index.css";</style>
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/ie.css" type="text/css">
+          <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/ie.css" type="text/css">
+      <![endif]-->
+  <script type="text/javascript" src="../../misc/jquery/index.js"></script>
+<script type="text/javascript" src="../../misc/drupal/index.js"></script>
+<script type="text/javascript" src="../../sites/2008.drupalcamptoronto.org/modules/fivestar/js/fivestar/index.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." } } });</script>
+</head>
+
+<body class="not-front not-logged-in node-type-session two-sidebars page-content-bof-drupal-scalability-and-performance-large-web-sites section-content">
+  <div id="page">
+    <div id="header">
+
+      <div id="skip-nav"><a href="#content">Skip to Main Content</a></div>
+
+      <div id="logo-title">
+
+        <form action="http://2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item" id="edit-search-theme-form-keys-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+</div></form>
+                  <a href="../../index/index.html" title="Home" rel="home">
+            <img src="../../sites/2008.drupalcamptoronto.org/files/zen_dcto_logo/index.png" alt="Home" id="logo" />
+          </a>
+        
+        <div id="name-and-slogan">
+
+                  <div id='site-name'><strong>
+            <a href="../../index/index.html" title="Home" rel="home">
+              DrupalCamp Toronto 2008            </a>
+          </strong></div>
+        
+        
+        </div> <!-- /name-and-slogan -->
+
+      </div> <!-- /logo-title -->
+
+      <div id="navigation" class="menu withprimary ">
+                  <div id="primary" class="clear-block">
+            <ul class="links"><li  class="first menu-1-1-2"><a href="../../announcements/index.html" class="menu-1-1-2">Announcements</a></li>
+<li  class="menu-1-2-2"><a href="../../attendees/index.html" class="menu-1-2-2">Attendees</a></li>
+<li  class="menu-1-3-2"><a href="../../forum/index.html" class="menu-1-3-2">Forums</a></li>
+<li  class="menu-1-4-2"><a href="../../sessions/index.html" class="menu-1-4-2">Sessions</a></li>
+<li  class="menu-1-5-2"><a href="../../sponsors/index.html" class="menu-1-5-2">Sponsors</a></li>
+<li  class="last menu-1-6-2"><a href="../../contact/index.html" class="menu-1-6-2">Contact</a></li>
+</ul>          </div>
+        
+              </div> <!-- /navigation -->
+
+              <div id="header-region">
+          <div class="breadcrumb"><a href="../../index/index.html">Home</a></div>                  </div> <!-- /header-region -->
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clear-block">
+
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-block-1" class="block block-block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+      <h2 class="title">Archive Notice</h2>
+  
+  <div class="content">
+    <p>This site has been archived. You should visit our <a href="http://drupalcamptoronto.org/">brand-spankin' new site</a>!</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-sponsor_block" class="block block-views region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Sponsors</h2>
+  
+  <div class="content">
+    <div class='view view-sponsor-block'><div class='view-content view-content-sponsor-block'><a href="http://www.theuseradvocategroup.com/"><img src="../../sites/2008.drupalcamptoronto.org/files/TUAGlogo/index.png" alt="" title="TUAGlogo.png" width="166" height="88" class="imagefield imagefield-field_logo" /></a></div></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-attendee_block" class="block block-views region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">Registrations</h2>
+  
+  <div class="content">
+    <div class='view view-attendee-block'><div class='view-header view-header-attendee-block'>Current count: 159</div>
+<div class='view-content view-content-attendee-block'><div class="item-list"><ul><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/dugto/index.html">[field_first_name-formatted] [field_last_name-formatted]</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/jeffk/index.html">Jeff Kramp</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/harsh/index.html">HH DD</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/kaustubh/index.html">Kaustubh Gadekar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/rrmaniar28/index.html">Rajat Gupta</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/abbood/index.html">Abdullah Bakhach</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/jayson/index.html">Jayson Ng</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/edith/index.html">Edith Ying</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/benvinegar/index.html">Ben Vinegar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../../users/richard-budman/index.html">Richard Budman</a></div></div>
+</li></ul></div></div><div class='view-footer view-footer-attendee-block'><p>[<a href="../../attendees/index.html">view all</a>]</p>
+</div>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-left -->
+      
+      <div id="main" class="column"><div id="squeeze" class="clear-block">
+                        <div id="content">
+                      <h1 class="title">BOF: Drupal scalability and performance for large web sites</h1>
+                                                  <div class="node node-type-session" id="node-149"><div class="node-inner">
+
+  
+  
+  <div class="picture"><a href="../../users/kbahey/index.html" title="View user profile."><img src="../../sites/2008.drupalcamptoronto.org/files/pictures/picture-9/index.jpg" alt="kbahey&#039;s picture" title="kbahey&#039;s picture"  /></a></div>
+      <div class="submitted">
+      Submitted by <a href="../../users/kbahey/index.html" title="View user profile.">kbahey</a> on May 13, 2008 - 8:03pm.    </div>
+  
+  
+  <div class="content">
+    <p>Success for a web site is often measured by traffic (more page views, more visitors, ...etc.)</p>
+<p>Sites can be victims to their own success when increased popularity causes it to be slow, or unable to handle more page views.</p>
+<p>Here are some things that we will touch on and discuss:</p>
+<ul>
+<li>What are the symptoms to look for?
+<li>What are the areas you investigate for problems?
+<li>What tools are available to help you diagnose issues?
+<li>What are some hints and tips for making your site faster?
+</ul>
+<p>This is a Bird of a Feather (BOF) format, so everyone can share their experience. Come prepared with hints/tips and findings, as well as questions ...</p>
+<p><a href="http://2bits.com/articles/presentation-drupalcamp-toronto-2008-drupal-performance-optimization-large-web-sites.html">Drupal performance optimization for large web sites</a>.</p>
+<div class="fivestar-static-form-item"><div class="form-item">
+ <label>Average: </label>
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4.625</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on" style="width: 62.5%"></span></div></div>
+ <div class="description"><div class="fivestar-summary fivestar-summary-average-count"><span class="average-rating">Average: <span>4.6</span></span> <span class="total-votes">(<span>16</span> votes)</span></div></div>
+</div>
+</div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li  class="first last bio"><a href="../../users/kbahey/index.html" title="View kbahey&#039;s Registration." class="bio">by kbahey</a></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div id="comments"><a id="comment-36"></a>
+<div class="comment odd"><div class="comment-inner">
+
+      <h3 class="title"><a href="index.html#comment-36" class="active">Presentation link</a></h3>
+  
+  
+  <div class="picture"><a href="../../users/jameshallam/index.html" title="View user profile."><img src="../../sites/2008.drupalcamptoronto.org/files/pictures/picture-45/index.jpg" alt="jameshallam&#039;s picture" title="jameshallam&#039;s picture"  /></a></div>
+  <div class="submitted">
+    Submitted by <a href="../../users/jameshallam/index.html" title="View user profile.">jameshallam</a> on May 25, 2008 - 12:40am.  </div>
+
+  <div class="content">
+    <p><a href="http://2bits.com/articles/presentation-performance-tuning-and-optimization-of-high-traffic-drupal-sites.html" title="http://2bits.com/articles/presentation-performance-tuning-and-optimization-of-high-traffic-drupal-sites.html">http://2bits.com/articles/presentation-performance-tuning-and-optimizati...</a></p>
+  </div>
+
+  
+</div></div> <!-- /comment-inner, /comment -->
+<div class="indented"><a id="comment-44"></a>
+<div class="comment even comment-by-author"><div class="comment-inner">
+
+      <h3 class="title"><a href="index.html#comment-44" class="active">Not really</a></h3>
+  
+  
+  <div class="picture"><a href="../../users/kbahey/index.html" title="View user profile."><img src="../../sites/2008.drupalcamptoronto.org/files/pictures/picture-9/index.jpg" alt="kbahey&#039;s picture" title="kbahey&#039;s picture"  /></a></div>
+  <div class="submitted">
+    Submitted by <a href="../../users/kbahey/index.html" title="View user profile.">kbahey</a> on June 7, 2008 - 8:58am.  </div>
+
+  <div class="content">
+    <p>James, the link you included is from last year's DrupalCamp.</p>
+<p>The one from last year is here: </p>
+<p><a href="http://2bits.com/articles/presentation-drupalcamp-toronto-2008-drupal-performance-optimization-large-web-sites.html">Presentation: DrupalCamp Toronto 2008: Drupal performance optimization large web sites</a>.<br />
+--<br />
+Khalid Baheyeldin<br />
+Managing Partner<br />
+<a href="http://2bits.com/">2bits.com, Inc.</a><br />
+Waterloo, Ontario</p>
+  </div>
+
+  
+</div></div> <!-- /comment-inner, /comment -->
+</div></div>                  </div> <!-- /content -->
+              </div></div> <!-- /squeeze /main -->
+
+              <div id="sidebar-right" class="column sidebar">
+          <div id="block-forum-0" class="block block-forum region-odd even region-count-1 count-4"><div class="block-inner">
+
+      <h2 class="title">Active forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li><a href="../jquery-slides/index.html" title="16 comments">JQuery slides?</a></li><li><a href="../commuting-montreal/index.html" title="24 comments">Commuting from Montreal</a></li><li><a href="../drupal-developers-wanted/index.html" title="13 comments">Drupal developers wanted</a></li><li><a href="../whottjoirty/index.html" title="26 comments">whottJoirty</a></li><li><a href="../whats-final-schedulesessions/index.html" title="5 comments">What&#039;s the final Schedule/Sessions?</a></li></ul></div><div class="more-link"><a href="../../forum/index.html" title="Read the latest forum topics.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-right -->
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+        
+      </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+    
+    
+  </div> <!-- /page -->
+
+</body>
+
+<!-- Mirrored from 2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Dec 2016 07:01:45 GMT -->
+</html>

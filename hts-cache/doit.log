@@ -1,5 +1,5 @@
-http://2010.drupalcamptoronto.org -O . -N %h%p/%n/index%[page].%t -WqQ%v -s0
-File generated automatically on Mon, 05 Dec 2016 15:38:05, do NOT edit
+http://2008.drupalcamptoronto.org -O . -N %h%p/%n/index%[page].%t -WqQ%v -s0
+File generated automatically on Mon, 05 Dec 2016 15:58:51, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

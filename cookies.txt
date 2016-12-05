@@ -9,4 +9,6 @@ twitter.com	TRUE	/	FALSE	1999999999	lang	zh-tw
 .2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device	3
 .2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device_type	0
 .2010.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	SESSd67852fc64289ab5796f16ca6522a8bc	cbc70c93f90413ddca9825855557207d
+.2007.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	SESS554ef11a7ed7de9871f7076b8c689c97	71a715c50f01c05eabfc2e981c15d141
+.2008.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	SESSe09c9e76aa6863430d5ca4de76c5bd75	70c2f72e51c3f19c8dbf637f7f22da58
 
