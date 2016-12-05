@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+twitter.com	TRUE	/	FALSE	1999999999	external_referer	j9EkcDrd01rum3DX3XCyqxSBryhFaoU0r19Hz+12ZoSkf0Cko7ZQ9ZY50KzWNJJG|0
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0PwTYotCJyzxzLtC3..BYRPgg.y-.AAA.0.0.BYRPgg.AWX2C4sG
+twitter.com	TRUE	/	FALSE	1999999999	lang	zh-tw
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCOpBas1YAToMY3NyZl9p%250AZCIlYjI0YmM5MTgxN2U2NmVlOGE5NzdmNDRmNDcxYzYzYjQ6B2lkIiUwYzJh%250ANDg2ZDYzYjFmNDczNzJlNzNlOGY4NjQ1OTk4NA%253D%253D--031525d01b91bbba5d7d6e9c913879a009d22e00
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A148091504279306022
+.2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device	3
+.2013.drupalcamptoronto.org	TRUE	/	FALSE	1999999999	device_type	0
+
