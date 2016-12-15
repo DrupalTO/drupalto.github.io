@@ -2,6 +2,8 @@
 
 This repository contains an archive of past DrupalCamp Toronto ([DrupalCampTO](https://twitter.com/DrupalCampTO)) websites.
 
+**Special thanks** to Khalid Baheyeldin of [2bits.com](https://2bits.com) for his generous assistance to create these archives and for his long-time support of DrupalCamp Toronto conferences.
+
 - [2006.drupalcamptoronto.org](http://barcamp.org/w/page/402632/DrupalCampToronto) <sup>[1]</sup>
 - [2007.drupalcamptoronto.org](https://drupalto.github.io/2007.drupalcamptoronto.org/)
 - [2008.drupalcamptoronto.org](https://drupalto.github.io/2008.drupalcamptoronto.org/)
@@ -12,9 +14,9 @@ This repository contains an archive of past DrupalCamp Toronto ([DrupalCampTO](h
 - [2014.drupalcamptoronto.org](https://drupalto.github.io/2014.drupalcamptoronto.org/)
 - 2015.drupalcamptoronto.org <sup>[3]</sup>
 
----
-
 The links above will be revised when DNS information is updated.
+
+---
 
 <sup>[1]</sup> The 2006 site was created on BarCamp.org as a Wiki and is not in this repository yet.
 
