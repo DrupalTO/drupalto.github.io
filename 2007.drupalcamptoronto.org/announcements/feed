@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2007.drupalcamptoronto.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>News and Announcements</title>
+ <link>http://2007.drupalcamptoronto.org/announcements</link>
+ <description>News and Announcements</description>
+ <language>en</language>
+<item>
+ <title>Updates for Day One</title>
+ <link>http://2007.drupalcamptoronto.org/node/222</link>
+ <description>&lt;p&gt;I hope everyone&#039;s enjoyed their morning. Here are the important announcements from this morning. Be sure to check back often and read the comments, as I&#039;m sure that people will post things I forgot. Here goes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The schedule for the first day has been pushed back half an hour.&lt;/strong&gt; We got a bit of a late start. If the &lt;a href=&quot;/schedule&quot;&gt;schedule&lt;/a&gt; says something starts at 11:30, it really starts at noon.&lt;/li&gt;
+&lt;p&gt;&lt;a href=&quot;http://2007.drupalcamptoronto.org/node/222&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2007.drupalcamptoronto.org/node/222#comments</comments>
+ <pubDate>Fri, 11 May 2007 12:34:24 -0400</pubDate>
+ <dc:creator>incidentist</dc:creator>
+ <guid isPermaLink="false">222 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Internet settings for Bahen rooms</title>
+ <link>http://2007.drupalcamptoronto.org/node/212</link>
+ <description>&lt;p&gt;Here are the settings to get wireless working in Bahen. We need our own routers and ethernet cable. Plug the routers into the wired jacks in each room, and enter the following settings:&lt;/p&gt;
+&lt;p&gt;Global settings:&lt;/p&gt;
+&lt;p&gt;Base:     128.100.30.xxx&lt;br /&gt;
+Mask:     255.255.255.128&lt;br /&gt;
+Gateway:128.100.30.129&lt;br /&gt;
+DNS:128.100.100.128&lt;/p&gt;
+&lt;p&gt;For room 1130, use IPs 135-138&lt;/p&gt;
+&lt;p&gt;For room 1240, use IPs 167-170&lt;/p&gt;
+&lt;p&gt;For room 2139, use IPs 179-182&lt;/p&gt;
+&lt;p&gt;For room B026, use IPs 247-250&lt;/p&gt;
+&lt;p&gt;Also, set your SSID to DrupalCamp&amp;gt;room number&amp;gt; (i.e. DrupalCamp1130).&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/node/212#comments</comments>
+ <pubDate>Tue, 08 May 2007 16:53:05 -0400</pubDate>
+ <dc:creator>incidentist</dc:creator>
+ <guid isPermaLink="false">212 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Fees</title>
+ <link>http://2007.drupalcamptoronto.org/node/203</link>
+ <description>&lt;p&gt;We&#039;ve been getting a lot of questions about registration fees.  This is most likely because we haven&#039;t posted anything about them yet. ;)&lt;/p&gt;
+&lt;p&gt;The good news is that there aren&#039;t any, but we&#039;re asking for a suggested donation of $20 (per person) to cover costs (e.g. food).  Also, we&#039;re still looking for sponsors so if you&#039;re interested in becoming one, please contact us!&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/node/203#comments</comments>
+ <pubDate>Thu, 03 May 2007 14:03:55 -0400</pubDate>
+ <dc:creator>colan@drupal.org</dc:creator>
+ <guid isPermaLink="false">203 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Registration</title>
+ <link>http://2007.drupalcamptoronto.org/registration</link>
+ <description>&lt;p&gt;It looks like we&#039;ve reached 150 attendees!  There seems to be a lot of interest in Drupal Camp &#039;07 so it should be super-exciting.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we&#039;ve got to cap the event at 150 due to space, food, and other constraints.  If you&#039;ve already registered and not able to make it, please unregister by deleting your registration.  That way, we&#039;ll be able to make space for others.&lt;/p&gt;
+&lt;p&gt;If you&#039;d like to register, but haven&#039;t yet, you should still be able to, but your registration will be on the waiting list.  You&#039;ll be able to attend when others unregister or don&#039;t show up.&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/registration#comments</comments>
+ <pubDate>Thu, 03 May 2007 13:54:36 -0400</pubDate>
+ <dc:creator>colan@drupal.org</dc:creator>
+ <guid isPermaLink="false">202 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Accomodations</title>
+ <link>http://2007.drupalcamptoronto.org/node/201</link>
+ <description>&lt;p&gt;We&#039;ve had a few requests from out-of-towners about places to stay.  We don&#039;t have anything specific in mind here, but some of the organizers did suggest that the area around Dundas and Church/Sherbourne has some &quot;value-priced kind mainstream hotels&quot;.&lt;/p&gt;
+&lt;p&gt;It would be helpful, however, if anybody that has experience with accommodations in Toronto (preferably downtown) could post comments here on details so that others could take advantage of the information.&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/node/201#comments</comments>
+ <pubDate>Thu, 03 May 2007 12:24:34 -0400</pubDate>
+ <dc:creator>colan@drupal.org</dc:creator>
+ <guid isPermaLink="false">201 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Session proposals due</title>
+ <link>http://2007.drupalcamptoronto.org/node/189</link>
+ <description>&lt;p&gt;There are only two days left to &lt;a href=&quot;/node/add/session&quot;&gt;propose a session&lt;/a&gt;!  Get &#039;em in while you can.  The deadline is &lt;em&gt;May 4th&lt;/em&gt;.  Make sure that you&#039;ve had a chance to &lt;a href=&quot;/sessions&quot;&gt;look through them&lt;/a&gt; and vote by the end of this weekend; we&#039;ll be reviewing them and making final decisions early next week.&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/node/189#comments</comments>
+ <pubDate>Wed, 02 May 2007 13:10:07 -0400</pubDate>
+ <dc:creator>colan@drupal.org</dc:creator>
+ <guid isPermaLink="false">189 at http://2007.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>T-shirts!</title>
+ <link>http://2007.drupalcamptoronto.org/node/134</link>
+ <description>&lt;p&gt;Thanks in large part to our generous sponsors, we&#039;re going to be able to do a run of t-shirts to give away at Drupal Camp. To help us make sure that we get everyone a tshirt, we&#039;ve added a field to your registration information to specify a t-shirt size. Please fill it out to ensure you get your shirt!&lt;/p&gt;
+</description>
+ <comments>http://2007.drupalcamptoronto.org/node/134#comments</comments>
+ <pubDate>Sat, 28 Apr 2007 01:15:00 -0400</pubDate>
+ <dc:creator>walkah</dc:creator>
+ <guid isPermaLink="false">134 at http://2007.drupalcamptoronto.org</guid>
+</item>
+</channel>
+</rss>

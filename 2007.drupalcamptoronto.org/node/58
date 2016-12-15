@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../misc/favicon.ico" type="image/x-icon" />
+    <title>The much anticipated CRM API | Drupal Camp Toronto 2007</title>
+    <style type="text/css" media="all">@import "../modules/node/node.css";</style>
+<style type="text/css" media="all">@import "../modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "../modules/system/system.css";</style>
+<style type="text/css" media="all">@import "../modules/user/user.css";</style>
+<style type="text/css" media="all">@import "../sites/2007.drupalcamptoronto.org/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "../sites/2007.drupalcamptoronto.org/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "../modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "../themes/garland/style.css";</style>
+        <style type="text/css" media="print">@import "../themes/garland/print.css";</style>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/garland/fix-ie.css";</style>
+    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="../index.html" title="Drupal Camp Toronto 2007"><img src="../themes/garland/logo.png" alt="Drupal Camp Toronto 2007" id="logo" /><span>Drupal Camp Toronto 2007</span></a></h1>        </div>
+
+                  <ul class="links primary-links"><li  class="first menu-1-1-2"><a href="../attendees" class="menu-1-1-2">Attendees</a></li>
+<li  class="menu-1-2-2"><a href="../announcements" class="menu-1-2-2">Announcements</a></li>
+<li  class="menu-1-3-2"><a href="../schedule" class="menu-1-3-2">Schedule</a></li>
+<li  class="menu-1-4-2"><a href="../sponsors" class="menu-1-4-2">Sponsors</a></li>
+<li  class="last menu-1-5-2"><a href="../contact" class="menu-1-5-2">Contact</a></li>
+</ul>                
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-block-3" class="clear-block block block-block">
+
+  <h2>Archive Notice</h2>
+
+  <div class="content"><p>This site has been archived. You should visit our <a href="http://drupalcamptoronto.org">brand-spankin' new site</a>!</p>
+</div>
+</div>
+<div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="../tracker">Recent posts</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-views-attendee_block" class="clear-block block block-views">
+
+  <h2>Registrations</h2>
+
+  <div class="content"><div class='view view-attendee-block'><div class='view-header view-header-attendee-block'>Current count: 145</div>
+<div class='view-content view-content-attendee-block'><div class="item-list"><ul><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="211">larry white</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="208">Eric Armstrong</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="207">Andrew Mallis</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="204">Julian Egelstaff</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="200">Dan Howard</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="199">Ethan Chiddicks</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="198">Aylwin Lo</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="197">Arthur Cormack</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="196">Andrew Lobo</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="195">Matthew Burpee</a></div></div>
+</li></ul></div></div><div class='view-footer view-footer-attendee-block'><p>[<a href="../attendees">view all</a>]</p>
+</div>
+</div>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="../index.html">Home</a></div>          
+                    <h2>The much anticipated CRM API</h2>          
+          
+                              
+<div id="node-58" class="node">
+
+
+
+  
+  <div class="content">
+    <p>This session will introduce the CRM API that Trellon is working on. It is basically a single layer for creating and accessing data on various CRM backends using a unified interface, in such a way that the unique features of the different CRMs are still available. I'll be covering: what it does, what problems it's supposed to solve, and where it's at right now. Most importantly, we'll be discussing what the API <em>should</em> do -- what kinds of situations would you use it in?, etc.</p>
+<p><strong>Update:</strong> There's a CRM API project page on drupal.org: <a href="http://drupal.org/project/crmapi" title="http://drupal.org/project/crmapi">http://drupal.org/project/crmapi</a></p>
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+          <div class="terms"><ul class="links inline"><li  class="first taxonomy_term_4"><a href="../taxonomy/term/4" rel="tag" title="" class="taxonomy_term_4">Consultants</a></li>
+<li  class="taxonomy_term_53"><a href="../taxonomy/term/53" rel="tag" title="" class="taxonomy_term_53">CRM</a></li>
+<li  class="taxonomy_term_1"><a href="../taxonomy/term/1" rel="tag" title="" class="taxonomy_term_1">Designers</a></li>
+<li  class="taxonomy_term_2"><a href="../taxonomy/term/2" rel="tag" title="" class="taxonomy_term_2">Developers</a></li>
+<li  class="taxonomy_term_48"><a href="../taxonomy/term/48" rel="tag" title="" class="taxonomy_term_48">development</a></li>
+<li  class="taxonomy_term_52"><a href="../taxonomy/term/52" rel="tag" title="" class="taxonomy_term_52">donor relations</a></li>
+<li  class="taxonomy_term_24"><a href="../taxonomy/term/24" rel="tag" title="" class="taxonomy_term_24">modules</a></li>
+<li  class="taxonomy_term_23"><a href="../taxonomy/term/23" rel="tag" title="" class="taxonomy_term_23">non-profit technology</a></li>
+<li  class="taxonomy_term_36"><a href="../taxonomy/term/36" rel="tag" title="" class="taxonomy_term_36">optimization</a></li>
+<li  class="taxonomy_term_34"><a href="../taxonomy/term/34" rel="tag" title="" class="taxonomy_term_34">site building</a></li>
+<li  class="last taxonomy_term_10"><a href="../taxonomy/term/10" rel="tag" title="" class="taxonomy_term_10">Social Mission</a></li>
+</ul></div>
+        </div>
+
+          <div class="links"><ul class="links inline"><li  class="first last bio"><a href="7" title="View incidentist&#039;s Registration." class="bio">by incidentist</a></li>
+</ul></div>
+      </div>
+
+</div><div id="comments"><h2 class="comments">Comments</h2><a id="comment-54"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">May 12, 2007 - 1:16pm — <a href="21" title="View user profile.">Andrew Clarke</a></span>
+  
+  
+  
+    <h3><a href="58#comment-54" class="active">Notes I took in the session</a></h3>
+
+    <div class="content">
+      <p>Someone (I think it was adixon) raised the issue that CiviCRM APIs aren't as lightweight as they could be.  If this CRM API for Drupal "takes off", then someone could write lighter weight APIs that aren't as resource intensive as the current ones.  One of the main things would be that the current CiviCRM APIs load Smarty (theme templating) but these as-yet-unwritten APIs wouldn't have to. </p>
+<p>The CRMAPI Roadmap includes building something that would log content creation in the Drupal system into the various CRMs.  This is an interesting idea that came up during the morning session on CiviCRM.  Currently, CiviCRM has a very feature-complete way of tracking the history of relationship events (interactions) that are relevant.  However, what it's missing is a way of logging the creation of content on a Drupal site.  Since this event is quite meaningful (because it represents a fairly high level of engagement with the community or organization that the CRM system is managing) it should ideally be tracked in the CRM system.</p>
+    </div>
+
+  </div>
+
+  </div>
+<a id="comment-13"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">May 2, 2007 - 12:11am — <a href="7" title="View user profile.">incidentist</a></span>
+  
+  
+  
+    <h3><a href="58#comment-13" class="active">If there&#039;s enough interest...</a></h3>
+
+    <div class="content">
+      <p>...I can certainly whip something up for this.<br />
+--<br />
+Dan Kurtz<br />
+<a href="http://brickswithoutclay.com" title="http://brickswithoutclay.com">http://brickswithoutclay.com</a></p>
+    </div>
+
+  </div>
+
+  </div>
+<div class="indented"><a id="comment-29"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">May 9, 2007 - 10:54am — <a href="57" title="View user profile.">tsteingard</a></span>
+  
+  
+  
+    <h3><a href="58#comment-29" class="active">It&#039;s all you man!</a></h3>
+
+    <div class="content">
+      <p>Whoa!<br />
+It says my name as the presenter...?</p>
+<p>Dan, can I count on you to have some material for this session? So that I'm not sitting there feeling stupid because I suggested this topic but I have little to no information on it...</p>
+    </div>
+
+  </div>
+
+  </div>
+<div class="indented"><a id="comment-34"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">May 9, 2007 - 3:03pm — <a href="7" title="View user profile.">incidentist</a></span>
+  
+  
+  
+    <h3><a href="58#comment-34" class="active">You&#039;re off the hook</a></h3>
+
+    <div class="content">
+      <p>I've changed this session to list me as the presenter, thus freeing you from the obligating of giving a talk on a subject you have no easy way to research. :)</p>
+<p>I'll have something prepared on what we have, but I'll also be seeking input from the group as to what the API <em>should</em> include.</p>
+<p>--<br />
+Dan Kurtz<br />
+<a href="http://brickswithoutclay.com" title="http://brickswithoutclay.com">http://brickswithoutclay.com</a></p>
+    </div>
+
+  </div>
+
+  </div>
+</div></div></div>          <span class="clear"></span>
+                    <div id="footer">
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+    </body>
+</html>
