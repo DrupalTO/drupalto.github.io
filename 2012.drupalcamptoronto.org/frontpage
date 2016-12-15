@@ -1,0 +1,560 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>DrupalCamp Toronto 2012</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="rss.xml" />
+<link rel="shortcut icon" href="misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ctools/css/ctools.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/jquery.timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/panels/css/panels.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ckeditor/ckeditor.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-vertical.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-navbar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/layout.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/base.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/messages.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/html-elements.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/forms.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/tables.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/page.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/articles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/comments.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/blocks.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/navigation.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/skins.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles-extra.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/edit-links.css" />
+  <style type="text/css">div.container{width:960px;}.two-sidebars .content-inner{margin-left:240px; margin-right:240px;}.sidebar-first .content-inner{margin-left:240px; margin-right:0;}.sidebar-last .content-inner{margin-right:240px; margin-left:0;}#sidebar-first{width:240px;margin-left:-100%;}#sidebar-last{width:240px;margin-left:-240px;}</style>  <script type="text/javascript" src="sites/all/modules/jquery_update/replace/jquery.min.js"></script>
+<script type="text/javascript" src="misc/drupal.js"></script>
+<script type="text/javascript" src="profiles/cod/modules/contrib/panels/js/panels.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/superfish.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supersubs.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supposition.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/sftouchscreen.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js"></script>
+<script type="text/javascript" src="sites/all/themes/adaptivetheme/adaptivetheme/js/at-scripts.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","viewsSlideshowSingleFrame":{"#views_slideshow_singleframe_main_banner_ads-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_singleframe_main_","div_prefix":"#views_slideshow_singleframe_div_","vss_id":"banner_ads-block_1","timeout":"10000","sort":1,"effect":"scrollRight","speed":"1000","start_paused":0,"delay":"0","fixed_height":"1","random":"0","pause":"1","pause_on_click":"1","pause_when_hidden":1,"pause_when_hidden_type":"full","amount_allowed_visible":"","remember_slide":0,"remember_slide_days":"1","controls":"0","items_per_slide":"1","pager":"2","pager_type":"Numbered","pager_hover":"2","pager_click_to_page":0,"image_count":"0","nowrap":"0","sync":"1","advanced":"","ie":{"cleartype":"true","cleartypenobg":"false"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 10, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});
+//--><!]]>
+</script>
+
+  <script type="text/javascript" src="http://use.typekit.net/qnu2rfd.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+
+<body class="front not-logged-in one-sidebar sidebar-last">
+<div class="page-wrapper">
+	<div id="page" class="container">
+		<div id="skip-nav" class="show-on-focus">
+			<a href="frontpage#main-content">Skip to main content</a>
+		</div>
+
+    
+    
+    <div id="header" class="container clearfix">
+
+      
+                <div id="logo">
+            <a href="index.html">
+                <a href="index.html" rel="home" class="active"><img src="sites/all/themes/adaptivetheme/at_dcto2012/logo.png" alt="DrupalCamp Toronto 2012 logo" title="Home page"/></a>            </a>
+        </div>
+                
+
+      
+              
+        
+        <div id="header-right">
+            <div id="social-links">
+                <ul>
+                    <li><a href="http://twitter.com/drupalcampTO"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/twitter_32.png" /></a></li>
+                    <li><a href="http://www.facebook.com/drupalcamptoronto"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/facebook_32.png" /></a></li>
+                    <li><a href="http://www.flickr.com/groups/drupalcamptoronto/"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/flickr_32.png" /></a></li>
+                </ul>
+            </div>
+
+                          <div id="primary-menu" class="nav clearfix">
+                                    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-3 sf-single-items-3 dcto2012superfish"><li id="menu-397-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="program" title="Program" class="sf-depth-1 menuparent">Program</a><ul><li id="menu-360-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="program/session-schedule" title="" class="sf-depth-2">Session Schedule</a></li><li id="menu-2562-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="program/session-schedule/your-schedule" title="" class="sf-depth-2">Your Schedule</a></li><li id="menu-2120-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="keynote-speakers" title="Keynote Speakers" class="sf-depth-2">Keynote Speakers</a></li><li id="menu-2119-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="birds-of-a-feather" title="Birds of a Feather" class="sf-depth-2">BoFs</a></li><li id="menu-2118-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="party" title="Party" class="sf-depth-2">Party</a></li></ul></li><li id="menu-921-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="aboot" title="Read all &quot;aboot&quot; DrupalCamp Toronto 2012." class="sf-depth-1 menuparent">Aboot</a><ul><li id="menu-922-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="location" title="Location details for DrupalCamp Toronto 2012." class="sf-depth-2">Location</a></li><li id="menu-2310-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="toronto-drupal-user-group" title="Toronto Drupal User Group" class="sf-depth-2">DUG-TO</a></li><li id="menu-2318-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="drupal-association" title="Drupal Association" class="sf-depth-2">Drupal Association</a></li></ul></li><li id="menu-1944-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="register" class="sf-depth-1">Register</a></li><li id="menu-878-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="attendees" title="Connect with attendees" class="sf-depth-1">Attendees</a></li><li id="menu-2423-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="sponsors" title="Sponsorships" class="sf-depth-1 menuparent">Sponsors</a><ul><li id="menu-2312-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="become-a-sponsor" title="Become a Sponsor" class="sf-depth-2">Sponsor Us!</a></li></ul></li><li id="menu-952-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="contact" title="Contact" class="sf-depth-1">Contact</a></li></ul>                              </div>
+                    </div>
+        
+         <!--
+                   -->
+
+    </div> <!-- /header -->
+        
+        
+                
+                          <div id="above-main-content">  <div id="block-views-banner_ads-block_1" class="block block-views">
+  <div class="block-inner">
+        <div class="content block-content"><div class="view view-banner-ads view-id-banner_ads view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      
+
+
+<div id="views_slideshow_singleframe_main_banner_ads-block_1" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_banner_ads-block_1" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_banner_ads-block_1_0"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-ad-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_ad_image" width="960" height="280" alt="" src="sites/default/files/banner-asteroid_0.png?1352397929" /></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_banner_ads-block_1_1"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-ad-image-fid">
+                <span class="field-content"><a href="program/session-schedule"><img  class="imagefield imagefield-field_ad_image" width="960" height="280" alt="" src="sites/default/files/banner-sessions_0.jpg" /></a></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_banner_ads-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-ad-image-fid">
+                <span class="field-content"><a href="become-a-sponsor"><img  class="imagefield imagefield-field_ad_image" width="960" height="280" alt="" src="sites/default/files/banner-sponsor_0.jpg" /></a></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_banner_ads-block_1_3"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-ad-image-fid">
+                <span class="field-content"><a href="attendees"><img  class="imagefield imagefield-field_ad_image" width="960" height="280" alt="" src="sites/default/files/banner-bofs_0.jpg" /></a></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_banner_ads-block_1_4"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-ad-image-fid">
+                <span class="field-content"><a href="register"><img  class="imagefield imagefield-field_ad_image" width="960" height="280" alt="" src="sites/default/files/banner-registration_0_0.jpg" /></a></span>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+  <div class="views-slideshow-controls-bottom clear-block">
+        <div class="views_slideshow_singleframe_pager views_slideshow_pagerNumbered" id="views_slideshow_singleframe_pager_banner_ads-block_1"></div>      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+</div>
+        
+    <div id="columns"><div class="columns-inner clearfix">
+
+      <div id="content-column"><div class="content-inner">
+
+        
+                  <div id="content-top">  <div id="block-block-1" class="block block-block">
+  <div class="block-inner">
+        <div class="content block-content"><div id="top-side">
+<ul class="glow">
+<li>
+<h3>
+				<a href="program/session-schedule">Schedule</a></h3>
+<p><a href="program/session-schedule">Learn about Drupal! Share your knowledge!</a></p>
+</li>
+<li>
+<h3>
+				<a href="register">Register</a></h3>
+<p><a href="register">Connect with fellow Drupal enthusiasts!</a></p>
+</li>
+<li>
+<h3>
+				<a href="become-a-sponsor">Sponsor</a></h3>
+<p><a href="become-a-sponsor">Support your local Drupal community!</a></p>
+</li>
+</ul>
+</div>
+</div>
+      </div>
+</div>
+</div>
+        
+        <div id="main-content">
+
+          
+          		  
+		  <div id="content"><div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<div id="node-147" class="node clear-block">
+
+<h2><a href="news/keynote-and-session-videos-and-slides" title="Keynote and Session Videos and Slides">Keynote and Session Videos and Slides</a></h2>
+
+<div class="meta">
+
+</div>
+
+<div class="content">
+
+	  
+    <p><img alt="" src="sites/default/files/images/news-vimeo.jpg" style="width: 250px; height: 258px; float: right;" />All of the available <a href="program/session-schedule">keynote and session</a> videos and slides have now been added to the website.</p>
+<p>The videos can also be <a href="http://vimeo.com/drupalcamptoronto/videos/sort:likes/format:detail">viewed directly</a> on our DrupalCamp Toronto account on <a href="https://vimeo.com/drupalcamptoronto">Vimeo</a>. Feel free to embed the videos on your websites and share them.</p>
+<p>All videos are released under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons</a> license.</p>
+<p>We&#39;ve turned on Vimeo&#39;s <strong>Tip This Video</strong> <a href="https://vimeo.com/blog/post:523">feature</a> for all of the videos. All proceeds from &quot;tips&quot; will go directly towards <em>DrupalCamp Toronto 2013</em>.</p>
+<p>Thank you to all who presented informative and thought provoking keynotes and sessions at DrupalCamp Toronto 2012. Your sharing of knowledge and ideas is the fuel that keeps Drupal progressing and moving forward!</p>
+</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<div id="node-112" class="node clear-block">
+
+<h2><a href="news/top-ten-reasons-to-attend-drupalcamp-toronto-2012" title="Top Ten Reasons to Attend DrupalCamp Toronto 2012">Top Ten Reasons to Attend DrupalCamp Toronto 2012</a></h2>
+
+<div class="meta">
+
+</div>
+
+<div class="content">
+
+	  
+    <p><a href="http://www.flickr.com/photos/motionblur/5098241835/in/pool-drupalcamptoronto"><img alt="" src="sites/default/files/images/news-top-ten.jpg" style="width: 200px; height: 300px; float: right;" /></a>DrupalCamp Toronto 2012 is shaping up to an <a href="program/session-schedule">amazing event</a> for Drupal enthusiasts. Here are <strong>ten reasons</strong> why you won&#39;t want to miss it!</p>
+<p><strong>10. It&#39;s Inexpensive!</strong></p>
+<p>Similar conferences of this scale in Toronto are <em>expensive</em> - in the range of $500 and higher. DrupalCamp Toronto 2012 <a href="register">costs a low $65</a> for the entire two-day event! Considering the huge variety of <a href="program/session-schedule">sessions</a>, great <a href="keynote-speakers">keynotes</a> and community interaction, DrupalCamp is a huge bargain! We also have <a href="register">student discounts</a>!</p>
+<p><strong>9. Networking</strong></p>
+<p>DrupalCamp is a great event to connect with developers, employers and other Drupal enthusiasts. You&#39;ll have countless opportunities to connect during the event and at our <a href="party">opening night party</a>.</p>
+<p><strong>8. Keynote by Jeff Eaton</strong></p>
+<p><a href="keynote-speakers">Jeff Eaton</a> is widely know as one of the most engaging and entertaining speakers in the Drupal community. If you&#39;ve ever learned about <a href="http://www.flickr.com/photos/motionblur/5098693698/">platypodes</a>, bets are that you can thank Jeff.</p>
+<p><strong>7. Birds of a Feather</strong></p>
+<p>What is a DrupalCamp without the <a href="birds-of-a-feather">BoF sessions</a>? BoFs are a chance for you to create your own informal sessions on topics not covered in our main program of sessions. Share your knowledge and/or questions informally with fellow Drupal enthusiasts!</p>
+<p><strong>6. 25+ Sessions</strong></p>
+<p>The heart of DrupalCamp Toronto 2012 is the <strong><a href="program/session-schedule">25+ sessions we&#39;re hosting on Friday and Saturday</a></strong>. We&#39;ll have a range of sessions for beginner, intermediate and advanced skill levels covering tracks for development, design and business.</p>
+<p><strong>5. Great Prizes!</strong></p>
+<p>We have some great prizes for attendees to win! Attendees have a chance to win a 1-year <a href="http://drupalize.me">Drupalize.me</a> membership (a <strong>$420 value</strong>), a 1-year premium <a href="http://www.lynda.com">Lynda.com</a> subscription (a <strong>$450 value</strong>) and DrupalCamp <strong>travel mugs</strong>!</p>
+<p><strong>4. Keynote by James Walker</strong></p>
+<p><a href="keynote-speakers">James Walker</a> has worked with Drupal for a <a href="http://drupal.org/conference-brussels-2005">very</a> long time. His reputation as a proponent of open source technologies, being a skilled educator and community leadership are well earned. Trivia: James actually helped organize the first DrupalCamp events in Toronto!</p>
+<p><strong>3. Great Sponsors</strong></p>
+<p>DrupalCamp Toronto 2012 wouldn&#39;t be possible without the generous support of our amazing sponsors! Thank you to <a href="sponsorships/peapod-studios">Peapod Studios</a>, <a href="sponsorships/myplanet-digital">Myplanet Digital</a>, <a href="sponsorships/freeform-solutions">Freeform Solutions</a>, <a href="sponsorships/digital-echidna">Digital Echidna</a>, <a href="sponsorships/nextide">Nextide</a>, <a href="sponsorships/2bitscom">2bits.com</a>, <a href="sponsorships/evolving-web">Evolving Web</a>, <a href="sponsorships/jma-consulting">JMA Consulting</a>, <a href="sponsorships/lullabot">Lullabot</a>, <a href="sponsorships/k2-digital">K2 Digital</a>, <a href="sponsorships/discovery-garden">Discovery Garden</a> and <a href="sponsorships/verge-interactive">Verge Interactive</a> for their sponsorship of this year&#39;s event.</p>
+<p><strong>2. Keynote by Angela Byron</strong></p>
+<p><a href="keynote-speakers">Angela Byron</a> is the core co-maintainer of Drupal 7, an award winning developer and author. She lives and breathes Drupal like few others. Angela was the first woman to be <a href="http://www.themarysue.com/angela-byron-linux-cover/">featured on the cover of Linux Journal</a>, in April 2011.</p>
+<p><strong>1. The Community</strong></p>
+<p>Drupal&#39;s best strength is its community. The opportunities to meet up with fellow DrupalCamp attendees is invaluable. Whether it&#39;s impromptu conversations between sessions, Birds of a Feather sessions, mingling at the opening night party or elsewhere, you&#39;ll quickly learn why the Drupal community rocks!</p>
+<p>So there you have it! Head over to the <a href="register">registration page</a> and sign-up for DrupalCamp Toronto 2012!</p>
+</div>
+
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    
+<div id="node-109" class="node clear-block">
+
+<h2><a href="news/likes-and-retweets-are-votes-too" title="Likes and Retweets are Votes Too!">Likes and Retweets are Votes Too!</a></h2>
+
+<div class="meta">
+
+</div>
+
+<div class="content">
+
+	  
+    <p><em><strong>Update: Voting has ended! Thanks to everyone for your website votes, retweets and likes! Watch for an updated session schedule tomorrow!</strong></em></p>
+<p>You know we&#39;re on <a href="http://twitter.com/DrupalCampTO">Twitter</a> and <a href="http://www.facebook.com/drupalcamptoronto">Facebook</a>, right? We&#39;re posting quick updates to both about DrupalCamp Toronto 2012, so check them out if you haven&#39;t already done so!</p>
+<p>If you look at each of the <a href="news/start-voting">proposed sessions</a>, you will see <strong>Tweet</strong> and <strong>Like</strong> buttons below their titles. Each <em>tweet</em>, <em>retweet</em> and <em>like</em> will <strong>also</strong> being counted towards voting until 5pm on Monday!</p>
+<p>So stay tuned to our <a href="http://twitter.com/DrupalCampTO">Twitter</a> account and <a href="http://www.facebook.com/drupalcamptoronto">Facebook</a> page tonight and tomorrow until 5pm to help boost the votes for your favourite sessions!</p>
+</div>
+
+</div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-current">1</li><li class="pager-item"><a href="frontpage?page=1" title="Go to page 2" class="active">2</a></li><li class="pager-item"><a href="frontpage?page=2" title="Go to page 3" class="active">3</a></li><li class="pager-next"><a href="frontpage?page=1" title="Go to next page" class="active">next ›</a></li><li class="pager-last"><a href="frontpage?page=2" title="Go to last page" class="active">last »</a></li></ul></div>  
+  
+  
+  
+  
+</div> </div>
+
+        </div> <!-- /main-content -->
+
+        
+      </div></div> <!-- /content-column -->
+
+          
+                      <div id="sidebar-last" class="sidebar">  <div id="block-views-Sponsors-block_8" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_8 sponsor-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/peapod-studios">Peapod Studios</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/peapod-studios"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-silver-peapod.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_1" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_1 sponsor-block view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/digital-echidna">Digital Echidna</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/digital-echidna"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-digitalechidna_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-user-0" class="block block-user">
+  <div class="block-inner">
+          <h2 class="title block-title">User login</h2>
+        <div class="content block-content"><form action="http://2012.drupalcamptoronto.org/frontpage?destination=frontpage"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="button-wrapper edit-submit"><span class="button"><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" /></span></span>
+<div class="item-list"><ul><li><a href="user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" id="form-1c611d7b3362ddf33e1f596af261f26e" value="form-1c611d7b3362ddf33e1f596af261f26e"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+      </div>
+</div>
+</div>
+                      
+            
+
+        </div></div> <!-- /columns -->
+
+                  <div id="tertiary-content">  <div id="block-views-Sponsors-block_4" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_4 sponsor-block view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/myplanet-digital">MyPlanet Digital</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/myplanet-digital"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-platinum-myplanetdigital_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_5" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_5 sponsor-block view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/nextide">Nextide</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/nextide"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-nextide_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_6" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Silver Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_6 sponsor-block view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/jma-consulting">JMA Consulting</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/jma-consulting"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-silver-jmaconsulting-1.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_7" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Bronze Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_7 sponsor-block view-dom-id-8">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/discovery-garden">Discovery Garden</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/discovery-garden"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-bronze-discoverygarden.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+</div>
+            </div>
+
+    
+          <div id="footer">
+
+        
+                  <div id="footer-message"><p>DrupalCamp Toronto 2012 is a production of the non-profit <a href="http://groups.drupal.org/toronto">Toronto Drupal User Group</a>.</p>
+<p>Built with <a href="http://usecod.com">COD</a>, the open source conference and event management solution.</p>
+<p><a href="http://content.getpantheon.com/powered-by-pantheon.html"><img alt="" class="pantheon" src="sites/default/files/images/pantheon.png" /></a></p>
+</div>
+        
+        <!--
+                  <div id="feed-icons"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Front page feed" width="16" height="16" /></a></div>
+                -->
+
+      </div> <!-- /footer -->
+    
+  </div> <!-- /page -->
+
+  
+  <script src="http://static.getclicky.com/js" type="text/javascript"></script>
+  <script type="text/javascript"><!--//--><![CDATA[//><!--
+  clicky.init(66630854);
+  //--><!]]></script>
+  <noscript><p><img alt="Clicky" src="http://static.getclicky.com/66630854ns.gif" /></p></noscript></div> <!-- /page-wrapper -->
+</body>
+</html>

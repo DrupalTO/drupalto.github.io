@@ -1,0 +1,452 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+h1{
+    font-size:42px;
+}
+
+h2{
+    font-size:32px;
+}
+
+h3{
+    font-size:24px;
+}
+
+h4{
+    font-size:18px;
+}
+
+p{
+    line-height: 20px;
+}
+
+
+body {
+    font-family: "m-1c",serif;
+    background-image: url('http://2012.drupalcamptoronto.org/sites/all/themes/adaptivetheme/at_dcto2012/image/background.jpg');
+    font-size: 14px;
+	background-size: 100%;
+}
+.page-wrapper {
+  background: transparent url('http://2012.drupalcamptoronto.org/sites/all/themes/adaptivetheme/at_dcto2012/images/drupalicon.png') no-repeat fixed right top;
+}
+
+header{
+    height: 104px;
+    clear:both;
+}
+
+/* first element */
+body > div{
+    z-index: 10;
+}
+
+#content{
+    position: relative;
+    z-index: 5;
+    margin-top: 5px;
+    margin-bottom: 5px;
+	min-height: 400px;
+	/* width: 96%;  needed to fix registeration page, wtf? iStrkyer */
+}
+
+#logo{
+    position:absolute;
+    left: 20px;
+    z-index: 10;
+}
+
+#slide-show img{
+    width: 100%;
+    min-width: 360px;
+}
+
+#druplicon
+{
+    position: fixed;
+    top:0px;
+    right: 0px;
+    z-index: -1;
+}
+
+#header-right{
+    text-align: right;
+    float: right;
+    padding-top: 5px;
+    padding-right: 20px;
+    max-width: 680px;
+    width: 100%;
+}
+
+#social-links{
+    margin-top:10px;
+    margin-right: 10px;
+}
+
+#social-links ul li{
+    display: inline-block;
+    width: 35px;
+}
+
+#main-menu > ul{
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+
+#main-menu a{
+    color: white;
+    font-size: 19px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 11px 22px;
+}
+
+#main-menu a:hover{
+    color: gold;
+}
+
+#main-menu > ul > li{
+    display: inline-block;
+    position: relative;
+}
+
+#main-menu > ul > li > ul{
+    position: absolute;
+    z-index: 20;
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    left: 18px;
+    top:30px;
+    display: none;
+}
+
+#main-menu > ul > li > ul li{
+    max-width: 400px;
+    min-width: 160px;
+    display: inline-block;
+}
+
+#main-menu > ul > li > ul li a{
+    border-bottom: 1px white solid;
+    max-width: 140px;
+    width: 100%;
+    padding: 8px 2px 8px;
+    display: inline-block;
+    text-align: left;
+}
+
+#main-menu > ul > li > ul li:last-child a{
+    border-bottom: none;
+}
+
+#main-menu > ul > li:hover ul{
+    display: inline-block;
+}
+
+
+/* content */
+#top-side li{
+    max-width: 214px;
+    width: 100%;
+    height: 80px;
+    color: white;
+    margin: 5px;
+    margin-right: 6px;
+    display: inline-block;
+    background-image: url('http://2012.drupalcamptoronto.org/sites/all/themes/adaptivetheme/at_dcto2012/img/bg-title.png');
+    background-color: #1f4e82;
+    background-repeat: repeat-x;
+}
+
+#top-side li:last-child{
+    margin-right: 0px;
+}
+
+#left-side{
+    max-width: 680px;
+    display: inline-block;
+}
+
+#top-side a,#right-side a{
+    color: inherit;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+
+#top-side h3{
+    font-size:32px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+#top-side p{
+    font-size: 12px;
+    max-width: 130px;
+    margin: 0px auto;
+     line-height: 15px;
+}
+
+#right-side{
+    max-width: 265px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#right-side li{
+    color: white;
+    margin: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 96%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#right-side h3{
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 4px;
+    background-image: url('http://2012.drupalcamptoronto.org/sites/all/themes/adaptivetheme/at_dcto2012/img/bg-title.png');
+    background-color: #1f4e82;
+    background-repeat: repeat-x;
+    width: 100%;
+}
+
+#right-side div{
+    background: white;
+    width: 100%;
+    text-align: center;
+    color:black;
+    min-height: 30px;
+    padding: 5px 0px
+}
+
+#block-side,#twitter-block,#inner-side{
+    background: white;
+    margin-top: 5px;
+    max-width: 660px; /* without padding 680px */
+    margin: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    padding:10px;
+    width: 96%;
+}
+
+header,footer,#main-menu > ul > li > ul{
+    background-color: rgba(0,0,0,0.85);
+}
+
+footer{
+    text-align: center;
+    padding: 13px 0px; 
+    color: white;
+}
+
+footer .byline{
+    font-size: 12px;
+    margin-top: 5px;
+    color: #AAA;
+}
+
+
+#sponsors{
+    margin-bottom: 15px;
+}
+
+#sponsors li{
+    color: white;
+    margin: 5px 15px;
+    display: inline-block;
+    max-width: 195px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#sponsors h3{
+    font-size: 18px; /* FIXME: change it to 22 */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 4px;
+    font-weight: bold;
+    width: 100%;
+}
+
+#sponsors div{
+    background: white;
+    width: 100%;
+    text-align: center;
+    color:black;
+    min-height: 30px;
+    padding: 5px 0px;
+}
+
+#sponsors img{
+    width: 100%;
+}
+
+/* inner page */
+
+/* utilities */
+.node p{
+    margin: 10px 0px;
+}
+div.glow,.glow div,ul.glow li,h1.glow{
+    -webkit-box-shadow:  0px 0px 0px 5px rgba(255, 255, 255, 0.25);    
+    box-shadow:  0px 0px 0px 5px rgba(255, 255, 255, 0.25);   
+}
+
+div.dark-glow,.dark-glow div,ul.dark-glow li{
+    -webkit-box-shadow:  0px 0px 0px 5px rgba(255, 255, 255, 0.10);
+    box-shadow:  0px 0px 0px 5px rgba(255, 255, 255, 0.10);
+}
+
+.container{
+    margin: auto;
+    min-width: 240px;
+    max-width: 960px;
+    position: relative;
+}
+
+.right{
+    float: right;
+}
+
+#branding {
+  background-color: #000000;
+  height: 100px;
+  margin: 0;
+  opacity: 0.85;
+  padding: 0 10px;
+}
+
+#sidebar-last h2 {
+  background-image: url("../images/bg-title.png");
+    /* box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.25); */
+    color: #FFFFFF;
+    font-size: 1.4em;
+    font-weight: 200;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 8px 0 4px;
+  
+}
+
+#sidebar-last {
+  margin-top: 2px;
+}
+.front #sidebar-last {
+  margin-top: 5px;
+}
+#sidebar-last .block-content {
+  background: #FFFFFF;
+  padding: 5px;
+  /* box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.25); */
+  box-shadow: 0 -5px 0 0 rgba(255, 255, 255, 0.25);
+  margin: 5px 0 0 0;
+}
+#sidebar-last h2 {
+  /* margin: 0; */
+}
+.sidebar-last .content-inner {
+  padding: 0 5px 0 0;
+  margin: 0 244px 0 0 !important;
+}
+
+#above-main-content .block {
+  margin: 5px 0 0 0;
+}
+#tertiary-content {
+  background: #131313;
+  padding: 5px;
+}
+#tertiary-content h2 {
+  color: #e3cd7a;
+  text-align: center;
+  text-transform: capitalize;
+}
+#tertiary-content a {
+   color: #e3cd7a;
+}
+
+#tertiary-content  #block-views-Sponsors-block_4,
+#tertiary-content  #block-views-Sponsors-block_5,
+#tertiary-content  #block-views-Sponsors-block_6,
+#tertiary-content  #block-views-Sponsors-block_7  {
+  float: left;
+  width: 230px;
+  clear: none;
+}
+#tertiary-content .sponsor-block {
+  box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.25);
+  background: #FFFFFF;
+  color: #000000;
+  /* padding: 5px; */
+  padding: 0;
+  width: 200px;
+  height: 125px;
+}
+
+#tertiary-content .sponsor-block  a {
+  color: #3575BB;
+}
+
+#tertiary-content .block-inner {
+  box-shadow: none;
+}
+
+#tertiary-content .block-content {
+ box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.95);
+}

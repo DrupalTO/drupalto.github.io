@@ -1,0 +1,5 @@
+for FILE in `cat x1`
+do
+  sed -e 's/?nrz1w0//' "$FILE" > tmp
+  mv tmp "$FILE"
+done

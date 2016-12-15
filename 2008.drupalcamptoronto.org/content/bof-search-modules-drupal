@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>BOF: Search modules for Drupal | DrupalCamp Toronto 2008</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/print.css" type="text/css" media="print" />
+
+<link rel="shortcut icon" href="../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/favicon.ico" type="image/x-icon" />
+  <style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/fivestar/css/fivestar.css";</style>
+<style type="text/css" media="all">@import "../modules/node/node.css";</style>
+<style type="text/css" media="all">@import "../modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "../modules/system/system.css";</style>
+<style type="text/css" media="all">@import "../modules/user/user.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "../modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/style.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/tabs.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/html-elements.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/layout-garland.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/icons.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/zen-dcto.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/block-editing.css";</style>
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/ie.css" type="text/css">
+          <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/ie.css" type="text/css">
+      <![endif]-->
+  <script type="text/javascript" src="../misc/jquery.js"></script>
+<script type="text/javascript" src="../misc/drupal.js"></script>
+<script type="text/javascript" src="../sites/2008.drupalcamptoronto.org/modules/fivestar/js/fivestar.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." } } });</script>
+</head>
+
+<body class="not-front not-logged-in node-type-session two-sidebars page-content-bof-search-modules-drupal section-content">
+  <div id="page">
+    <div id="header">
+
+      <div id="skip-nav"><a href="bof-search-modules-drupal#content">Skip to Main Content</a></div>
+
+      <div id="logo-title">
+
+        <form action="bof-search-modules-drupal"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item" id="edit-search-theme-form-keys-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+</div></form>
+                  <a href="../index.html" title="Home" rel="home">
+            <img src="../sites/2008.drupalcamptoronto.org/files/zen_dcto_logo.png" alt="Home" id="logo" />
+          </a>
+        
+        <div id="name-and-slogan">
+
+                  <div id='site-name'><strong>
+            <a href="../index.html" title="Home" rel="home">
+              DrupalCamp Toronto 2008            </a>
+          </strong></div>
+        
+        
+        </div> <!-- /name-and-slogan -->
+
+      </div> <!-- /logo-title -->
+
+      <div id="navigation" class="menu withprimary ">
+                  <div id="primary" class="clear-block">
+            <ul class="links"><li  class="first menu-1-1-2"><a href="../announcements" class="menu-1-1-2">Announcements</a></li>
+<li  class="menu-1-2-2"><a href="../attendees" class="menu-1-2-2">Attendees</a></li>
+<li  class="menu-1-3-2"><a href="../forum" class="menu-1-3-2">Forums</a></li>
+<li  class="menu-1-4-2"><a href="../sessions" class="menu-1-4-2">Sessions</a></li>
+<li  class="menu-1-5-2"><a href="../sponsors" class="menu-1-5-2">Sponsors</a></li>
+<li  class="last menu-1-6-2"><a href="../contact" class="menu-1-6-2">Contact</a></li>
+</ul>          </div>
+        
+              </div> <!-- /navigation -->
+
+              <div id="header-region">
+          <div class="breadcrumb"><a href="../index.html">Home</a></div>                  </div> <!-- /header-region -->
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clear-block">
+
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-block-1" class="block block-block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+      <h2 class="title">Archive Notice</h2>
+  
+  <div class="content">
+    <p>This site has been archived. You should visit our <a href="http://drupalcamptoronto.org">brand-spankin' new site</a>!</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-sponsor_block" class="block block-views region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Sponsors</h2>
+  
+  <div class="content">
+    <div class='view view-sponsor-block'><div class='view-content view-content-sponsor-block'><a href="http://www.fis.utoronto.ca/"><img src="../sites/2008.drupalcamptoronto.org/files/fis-logo-06.jpg" alt="" title="fis-logo-06.jpg" width="60" height="78" class="imagefield imagefield-field_logo" /></a></div></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-attendee_block" class="block block-views region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">Registrations</h2>
+  
+  <div class="content">
+    <div class='view view-attendee-block'><div class='view-header view-header-attendee-block'>Current count: 159</div>
+<div class='view-content view-content-attendee-block'><div class="item-list"><ul><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="fieldfirstname-formatted-fieldlastname-formatted">[field_first_name-formatted] [field_last_name-formatted]</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="jeff-kramp">Jeff Kramp</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="hh-dd">HH DD</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="kaustubh-gadekar">Kaustubh Gadekar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="rajat-gupta">Rajat Gupta</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="abdullah-bakhach">Abdullah Bakhach</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="jayson-ng">Jayson Ng</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="edith-ying">Edith Ying</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="ben-vinegar">Ben Vinegar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="richard-budman">Richard Budman</a></div></div>
+</li></ul></div></div><div class='view-footer view-footer-attendee-block'><p>[<a href="../attendees">view all</a>]</p>
+</div>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-left -->
+      
+      <div id="main" class="column"><div id="squeeze" class="clear-block">
+                        <div id="content">
+                      <h1 class="title">BOF: Search modules for Drupal</h1>
+                                                  <div class="node node-type-session" id="node-153"><div class="node-inner">
+
+  
+  
+  <div class="picture"><a href="richard-weait" title="View user profile."><img src="../sites/2008.drupalcamptoronto.org/files/pictures/picture-47.png" alt="Richard Weait&#039;s picture" title="Richard Weait&#039;s picture"  /></a></div>
+      <div class="submitted">
+      Submitted by <a href="richard-weait" title="View user profile.">Richard Weait</a> on May 13, 2008 - 9:23pm.    </div>
+  
+  
+  <div class="content">
+    <p>There are 58 modules in the search category for Drupal.  Share your experiences with others.  What search problem did you need to solve?  Which module did you select?  Did it help solve your problem?  </p>
+<p>This Birds of a Feather Session will allow each attendee to share their experiences, hopes, concerns and shattered dreams.</p>
+<div class="fivestar-static-form-item"><div class="form-item">
+ <label>Average: </label>
+ <div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4.166665</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on" style="width: 16.6665%"></span></div></div>
+ <div class="description"><div class="fivestar-summary fivestar-summary-average-count"><span class="average-rating">Average: <span>4.2</span></span> <span class="total-votes">(<span>12</span> votes)</span></div></div>
+</div>
+</div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li  class="first last bio"><a href="richard-weait" title="View Richard Weait&#039;s Registration." class="bio">by Richard Weait</a></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div id="comments"><a id="comment-17"></a>
+<div class="comment odd"><div class="comment-inner">
+
+      <h3 class="title"><a href="bof-search-modules-drupal#comment-17" class="active">Future of Search</a></h3>
+  
+  
+  
+  <div class="submitted">
+    Submitted by <a href="andy-austin" title="View user profile.">aaustin</a> on May 20, 2008 - 4:53pm.  </div>
+
+  <div class="content">
+    <p>Will there be any discussion of the direction of Drupal's core search, what's going on with the Drupal search group and the results of the Minnesota Search Sprint?</p>
+<p>Or will the session focus more on making the most of the many pieces that we have now?</p>
+<p>Either way, I'm there.  Thanks for doing this.</p>
+  </div>
+
+  
+</div></div> <!-- /comment-inner, /comment -->
+<div class="indented"><a id="comment-21"></a>
+<div class="comment even comment-by-author"><div class="comment-inner">
+
+      <h3 class="title"><a href="bof-search-modules-drupal#comment-21" class="active">This is a Birds of a Feather</a></h3>
+  
+  
+  <div class="picture"><a href="richard-weait" title="View user profile."><img src="../sites/2008.drupalcamptoronto.org/files/pictures/picture-47.png" alt="Richard Weait&#039;s picture" title="Richard Weait&#039;s picture"  /></a></div>
+  <div class="submitted">
+    Submitted by <a href="richard-weait" title="View user profile.">Richard Weait</a> on May 22, 2008 - 5:58am.  </div>
+
+  <div class="content">
+    <p>This is a Birds of a Feather session, so I'm not actually "in charge" of what will be presented here.  You want to talk about the future of search?  Awesome, bring it on!  It's a Birds of a Feather session; the participants direct it by participating!</p>
+<p>I hope that we'll, as a group, discuss some or many of the 50+ contrib search modules, why they are needed and when they are useful.  </p>
+<p>Most anything search-related is on-topic, and I'll try to give everybody a chance to speak if they wish to do so.  </p>
+<p>My preparation is limited to taking a quick look at the search module descriptions and thinking of a few "Conversational Gambits" to get the conversation started if people are being shy.</p>
+  </div>
+
+  
+</div></div> <!-- /comment-inner, /comment -->
+</div></div>                  </div> <!-- /content -->
+              </div></div> <!-- /squeeze /main -->
+
+              <div id="sidebar-right" class="column sidebar">
+          <div id="block-forum-0" class="block block-forum region-odd even region-count-1 count-4"><div class="block-inner">
+
+      <h2 class="title">Active forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li><a href="jquery-slides" title="16 comments">JQuery slides?</a></li><li><a href="commuting-montreal" title="24 comments">Commuting from Montreal</a></li><li><a href="drupal-developers-wanted" title="13 comments">Drupal developers wanted</a></li><li><a href="whottjoirty" title="26 comments">whottJoirty</a></li><li><a href="whats-final-schedulesessions" title="5 comments">What&#039;s the final Schedule/Sessions?</a></li></ul></div><div class="more-link"><a href="../forum" title="Read the latest forum topics.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-right -->
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+        
+      </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+    
+    
+  </div> <!-- /page -->
+
+</body>
+</html>

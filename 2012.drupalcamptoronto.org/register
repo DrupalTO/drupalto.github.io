@@ -1,0 +1,506 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Register | DrupalCamp Toronto 2012</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ctools/css/ctools.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/jquery.timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/panels/css/panels.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ckeditor/ckeditor.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-vertical.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-navbar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/uc_signup/uc_signup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/layout.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/base.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/messages.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/html-elements.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/forms.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/tables.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/page.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/articles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/comments.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/blocks.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/navigation.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/skins.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles-extra.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/edit-links.css" />
+  <style type="text/css">div.container{width:960px;}.two-sidebars .content-inner{margin-left:240px; margin-right:240px;}.sidebar-first .content-inner{margin-left:240px; margin-right:0;}.sidebar-last .content-inner{margin-right:240px; margin-left:0;}#sidebar-first{width:240px;margin-left:-100%;}#sidebar-last{width:240px;margin-left:-240px;}</style>  <script type="text/javascript" src="sites/all/modules/jquery_update/replace/jquery.min.js"></script>
+<script type="text/javascript" src="misc/drupal.js"></script>
+<script type="text/javascript" src="profiles/cod/modules/contrib/panels/js/panels.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/superfish.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supersubs.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supposition.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/sftouchscreen.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js"></script>
+<script type="text/javascript" src="sites/all/themes/adaptivetheme/adaptivetheme/js/at-scripts.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 10, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});
+//--><!]]>
+</script>
+
+  <script type="text/javascript" src="http://use.typekit.net/qnu2rfd.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+
+<body class="not-front not-logged-in one-sidebar sidebar-last section-register">
+<div class="page-wrapper">
+	<div id="page" class="container">
+		<div id="skip-nav" class="show-on-focus">
+			<a href="register#main-content">Skip to main content</a>
+		</div>
+
+    
+    
+    <div id="header" class="container clearfix">
+
+      
+                <div id="logo">
+            <a href="index.html">
+                <a href="index.html" rel="home"><img src="sites/all/themes/adaptivetheme/at_dcto2012/logo.png" alt="DrupalCamp Toronto 2012 logo" title="Home page"/></a>            </a>
+        </div>
+                
+
+      
+              
+        
+        <div id="header-right">
+            <div id="social-links">
+                <ul>
+                    <li><a href="http://twitter.com/drupalcampTO"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/twitter_32.png" /></a></li>
+                    <li><a href="http://www.facebook.com/drupalcamptoronto"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/facebook_32.png" /></a></li>
+                    <li><a href="http://www.flickr.com/groups/drupalcamptoronto/"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/flickr_32.png" /></a></li>
+                </ul>
+            </div>
+
+                          <div id="primary-menu" class="nav clearfix">
+                                    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-3 sf-single-items-3 dcto2012superfish"><li id="menu-397-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="program" title="Program" class="sf-depth-1 menuparent">Program</a><ul><li id="menu-360-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="program/session-schedule" title="" class="sf-depth-2">Session Schedule</a></li><li id="menu-2562-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="program/session-schedule/your-schedule" title="" class="sf-depth-2">Your Schedule</a></li><li id="menu-2120-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="keynote-speakers" title="Keynote Speakers" class="sf-depth-2">Keynote Speakers</a></li><li id="menu-2119-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="birds-of-a-feather" title="Birds of a Feather" class="sf-depth-2">BoFs</a></li><li id="menu-2118-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="party" title="Party" class="sf-depth-2">Party</a></li></ul></li><li id="menu-921-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="aboot" title="Read all &quot;aboot&quot; DrupalCamp Toronto 2012." class="sf-depth-1 menuparent">Aboot</a><ul><li id="menu-922-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="location" title="Location details for DrupalCamp Toronto 2012." class="sf-depth-2">Location</a></li><li id="menu-2310-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="toronto-drupal-user-group" title="Toronto Drupal User Group" class="sf-depth-2">DUG-TO</a></li><li id="menu-2318-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="drupal-association" title="Drupal Association" class="sf-depth-2">Drupal Association</a></li></ul></li><li id="menu-1944-1" class="active-trail middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="register" class="sf-depth-1 active">Register</a></li><li id="menu-878-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="attendees" title="Connect with attendees" class="sf-depth-1">Attendees</a></li><li id="menu-2423-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="sponsors" title="Sponsorships" class="sf-depth-1 menuparent">Sponsors</a><ul><li id="menu-2312-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="become-a-sponsor" title="Become a Sponsor" class="sf-depth-2">Sponsor Us!</a></li></ul></li><li id="menu-952-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="contact" title="Contact" class="sf-depth-1">Contact</a></li></ul>                              </div>
+                    </div>
+        
+         <!--
+                   -->
+
+    </div> <!-- /header -->
+        
+        
+                
+                
+    <div id="columns"><div class="columns-inner clearfix">
+
+      <div id="content-column"><div class="content-inner">
+
+        
+        
+        <div id="main-content">
+
+                      <div id="main-content-header">
+              <h1 id="page-title">Register</h1>                          </div>
+          
+          		  
+		  <div id="content"><div class="view view-uc-products view-id-uc_products view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <h2>Register Now!</h2>
+<p>Register now for DrupalCamp Toronto 2012!</p>
+<p>Early registration will help us ensure your t-shirt and meal choices.  <strong>Student discount</strong> requires a valid student ID on the day of the event.</p>
+<p>Registration fees are listed below.</p>
+<p>See you there!</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-3">
+    <thead>
+    <tr>
+              <th class="views-field views-field-title">
+                  </th>
+              <th class="views-field views-field-sell-price">
+                  </th>
+              <th class="views-field views-field-buyitnowbutton">
+                  </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            Friday &amp; Saturday Admission          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$65.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-27">
+<div><input type="hidden" name="nid" id="edit-nid" value="27"  />
+<input type="hidden" name="products[25][nid]" id="edit-products-25-nid" value="25"  />
+<input type="hidden" name="products[25][qty]" id="edit-products-25-qty" value="1"  />
+<input type="hidden" name="products[26][nid]" id="edit-products-26-nid" value="26"  />
+<input type="hidden" name="products[26][qty]" id="edit-products-26-qty" value="1"  />
+<span class="button-wrapper edit-submit-27"><span class="button"><input type="submit" name="op" id="edit-submit-27" value="Sign up"  class="form-submit list-add-to-cart" /></span></span>
+<input type="hidden" name="form_build_id" id="form-6436c391518639af1cd24b71a18e7453" value="form-6436c391518639af1cd24b71a18e7453"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-27" value="uc_catalog_buy_it_now_form_27"  />
+
+</div></form>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            Friday Admission          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$35.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-26">
+<div><input type="hidden" name="nid" id="edit-nid-1" value="26"  />
+<span class="button-wrapper edit-submit-26"><span class="button"><input type="submit" name="op" id="edit-submit-26" value="Sign up"  class="form-submit list-add-to-cart" disabled="disabled" /></span></span>
+<span class="uc_signup_closed_message">Signups are closed for this event.</span><input type="hidden" name="form_build_id" id="form-51b92bf521436e1864ffc04f7ca64d79" value="form-51b92bf521436e1864ffc04f7ca64d79"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-26" value="uc_catalog_buy_it_now_form_26"  />
+
+</div></form>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            Saturday Admission          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$35.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-25">
+<div><input type="hidden" name="nid" id="edit-nid-2" value="25"  />
+<span class="button-wrapper edit-submit-25"><span class="button"><input type="submit" name="op" id="edit-submit-25" value="Sign up"  class="form-submit list-add-to-cart" disabled="disabled" /></span></span>
+<span class="uc_signup_closed_message">Signups are closed for this event.</span><input type="hidden" name="form_build_id" id="form-44d2c74bb55c48d2cf63e3f222a1d3c3" value="form-44d2c74bb55c48d2cf63e3f222a1d3c3"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-25" value="uc_catalog_buy_it_now_form_25"  />
+
+</div></form>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            Friday &amp; Saturday Admission (Student Discount)          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$35.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-30">
+<div><input type="hidden" name="nid" id="edit-nid-3" value="30"  />
+<input type="hidden" name="products[26][nid]" id="edit-products-26-nid-1" value="26"  />
+<input type="hidden" name="products[26][qty]" id="edit-products-26-qty-1" value="1"  />
+<input type="hidden" name="products[25][nid]" id="edit-products-25-nid-1" value="25"  />
+<input type="hidden" name="products[25][qty]" id="edit-products-25-qty-1" value="1"  />
+<span class="button-wrapper edit-submit-30"><span class="button"><input type="submit" name="op" id="edit-submit-30" value="Sign up"  class="form-submit list-add-to-cart" /></span></span>
+<input type="hidden" name="form_build_id" id="form-3447db347e4dde57d78400e23e8afaea" value="form-3447db347e4dde57d78400e23e8afaea"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-30" value="uc_catalog_buy_it_now_form_30"  />
+
+</div></form>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            Friday Admission (Student Discount)          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$35.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-56">
+<div><input type="hidden" name="nid" id="edit-nid-4" value="56"  />
+<input type="hidden" name="products[26][nid]" id="edit-products-26-nid-2" value="26"  />
+<input type="hidden" name="products[26][qty]" id="edit-products-26-qty-2" value="1"  />
+<span class="button-wrapper edit-submit-56"><span class="button"><input type="submit" name="op" id="edit-submit-56" value="Sign up"  class="form-submit list-add-to-cart" /></span></span>
+<input type="hidden" name="form_build_id" id="form-3f5b7d3c0ea83547341026cb1bb768e0" value="form-3f5b7d3c0ea83547341026cb1bb768e0"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-56" value="uc_catalog_buy_it_now_form_56"  />
+
+</div></form>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title">
+            Saturday Admission (Student Discount)          </td>
+                  <td class="views-field views-field-sell-price">
+            <span class="uc-price-product uc-price-sell_price uc-price">$35.00</span>          </td>
+                  <td class="views-field views-field-buyitnowbutton">
+            <form action="register"  accept-charset="UTF-8" method="post" id="uc-catalog-buy-it-now-form-55">
+<div><input type="hidden" name="nid" id="edit-nid-5" value="55"  />
+<input type="hidden" name="products[25][nid]" id="edit-products-25-nid-2" value="25"  />
+<input type="hidden" name="products[25][qty]" id="edit-products-25-qty-2" value="1"  />
+<span class="button-wrapper edit-submit-55"><span class="button"><input type="submit" name="op" id="edit-submit-55" value="Sign up"  class="form-submit list-add-to-cart" /></span></span>
+<input type="hidden" name="form_build_id" id="form-a95c7873f95bd7b0ac1ee13fdffa0f60" value="form-a95c7873f95bd7b0ac1ee13fdffa0f60"  />
+<input type="hidden" name="form_id" id="edit-uc-catalog-buy-it-now-form-55" value="uc_catalog_buy_it_now_form_55"  />
+
+</div></form>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+
+        </div> <!-- /main-content -->
+
+        
+      </div></div> <!-- /content-column -->
+
+          
+                      <div id="sidebar-last" class="sidebar">  <div id="block-views-Sponsors-block_8" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_8 sponsor-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/myplanet-digital">MyPlanet Digital</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/myplanet-digital"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-platinum-myplanetdigital_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_1" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_1 sponsor-block view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/nextide">Nextide</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/nextide"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-nextide_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-user-0" class="block block-user">
+  <div class="block-inner">
+          <h2 class="title block-title">User login</h2>
+        <div class="content block-content"><form action="http://2012.drupalcamptoronto.org/register?destination=register"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="button-wrapper edit-submit"><span class="button"><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" /></span></span>
+<div class="item-list"><ul><li><a href="user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" id="form-13cf47e3414784833d24a31e0ec98e94" value="form-13cf47e3414784833d24a31e0ec98e94"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+      </div>
+</div>
+</div>
+                      
+            
+
+        </div></div> <!-- /columns -->
+
+                  <div id="tertiary-content">  <div id="block-views-Sponsors-block_4" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_4 sponsor-block view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/myplanet-digital">MyPlanet Digital</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/myplanet-digital"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-platinum-myplanetdigital_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_5" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_5 sponsor-block view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/nextide">Nextide</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/nextide"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-nextide_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_6" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Silver Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_6 sponsor-block view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/2bitscom">2bits.com</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/2bitscom"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-silver-2bits_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_7" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Bronze Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_7 sponsor-block view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/discovery-garden">Discovery Garden</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/discovery-garden"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-bronze-discoverygarden.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+</div>
+            </div>
+
+    
+          <div id="footer">
+
+        
+                  <div id="footer-message"><p>DrupalCamp Toronto 2012 is a production of the non-profit <a href="http://groups.drupal.org/toronto">Toronto Drupal User Group</a>.</p>
+<p>Built with <a href="http://usecod.com">COD</a>, the open source conference and event management solution.</p>
+<p><a href="http://content.getpantheon.com/powered-by-pantheon.html"><img alt="" class="pantheon" src="sites/default/files/images/pantheon.png" /></a></p>
+</div>
+        
+        <!--
+                -->
+
+      </div> <!-- /footer -->
+    
+  </div> <!-- /page -->
+
+  
+  <script src="http://static.getclicky.com/js" type="text/javascript"></script>
+  <script type="text/javascript"><!--//--><![CDATA[//><!--
+  clicky.init(66630854);
+  //--><!]]></script>
+  <noscript><p><img alt="Clicky" src="http://static.getclicky.com/66630854ns.gif" /></p></noscript></div> <!-- /page-wrapper -->
+</body>
+</html>

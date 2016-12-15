@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2008.drupalcamptoronto.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Proposed Sessions</title>
+ <link>http://2008.drupalcamptoronto.org/sessions</link>
+ <description>Session Proposals</description>
+ <language>en</language>
+<item>
+ <title>Theming Fundamentals</title>
+ <link>http://2008.drupalcamptoronto.org/content/theming-fundamentals</link>
+ <description>&lt;p&gt;A walkthrough of the basics for customizing the look and layout of your Drupal installation. Will focus on using the Zen theme as a starting point, and creating a custom subtheme. Will also include brief discussion of usability fundamentals, and optimization techniques such as the use of Sprites.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/theming-fundamentals#comments</comments>
+ <pubDate>Sun, 04 May 2008 14:17:06 -0400</pubDate>
+ <dc:creator>surge_martin</dc:creator>
+ <guid isPermaLink="false">87 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Drupal on a Diet, Keeping your site lean and light</title>
+ <link>http://2008.drupalcamptoronto.org/content/drupal-a-diet-keeping-your-site-lean-and-light</link>
+ <description>&lt;p&gt;Drupal by default is very lean, only when functionality and design are added does performance become an issue. With some sites using hundreds of modules, the responsibility is on the developer to insure that modules have the smallest possible impact. Themes can also help to lubricate the Drupal experience in presentation style and technique.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/drupal-a-diet-keeping-your-site-lean-and-light&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/drupal-a-diet-keeping-your-site-lean-and-light#comments</comments>
+ <pubDate>Fri, 25 Apr 2008 16:24:39 -0400</pubDate>
+ <dc:creator>NewmanHunter</dc:creator>
+ <guid isPermaLink="false">46 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Build your own social network with Drupal</title>
+ <link>http://2008.drupalcamptoronto.org/content/build-your-own-social-network-with-drupal</link>
+ <description>&lt;p&gt;Want to create the perfect community? Drupal can help. In this session we will discuss the basic principles of building a social network with Drupal.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Philosophical discussion on what constitutes a community/social network?&lt;/li&gt;
+&lt;li&gt;What&#039;s the difference between a blogs, forums, and groups? How to choose.&lt;/li&gt;
+&lt;li&gt;Which Drupal modules are essential for building a community?&lt;/li&gt;
+&lt;li&gt;Dealing with Privacy&lt;/li&gt;
+&lt;li&gt;Integration with Facebook&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/build-your-own-social-network-with-drupal#comments</comments>
+ <pubDate>Tue, 13 May 2008 12:58:34 -0400</pubDate>
+ <dc:creator>amanuel</dc:creator>
+ <guid isPermaLink="false">148 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Building A Medium Size Website With Drupal: 3 Case Studies</title>
+ <link>http://2008.drupalcamptoronto.org/content/building-a-medium-size-website-with-drupal-3-case-studies</link>
+ <description>&lt;p&gt;We&#039;ll take a look at three medium sized websites built over the past 3 months (more or less) - a panel presentation.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/building-a-medium-size-website-with-drupal-3-case-studies#comments</comments>
+ <pubDate>Wed, 14 May 2008 08:09:43 -0400</pubDate>
+ <dc:creator>adixon</dc:creator>
+ <guid isPermaLink="false">158 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>What’s the right image solution for my site?</title>
+ <link>http://2008.drupalcamptoronto.org/content/what%E2%80%99s-right-image-solution-my-site</link>
+ <description>&lt;p&gt;There are many different approaches to handle images on your site, but which one is the best approach for yours?&lt;/p&gt;
+&lt;p&gt;This session will cover the pros/cons of different solutions that are out there in relation to the needs of your site.&lt;/p&gt;
+&lt;p&gt;For the most part, I’m creating this session because when I first started with Drupal, what was the best approach would often make me want to bang my head against my desk. So, to prevent any future concussions, I’d like to pass along my experiences with different modules.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/what%E2%80%99s-right-image-solution-my-site&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/what%E2%80%99s-right-image-solution-my-site#comments</comments>
+ <pubDate>Mon, 12 May 2008 21:36:45 -0400</pubDate>
+ <dc:creator>jsfwd</dc:creator>
+ <guid isPermaLink="false">142 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Moving in: how to port your content from * to Drupal</title>
+ <link>http://2008.drupalcamptoronto.org/content/moving-how-port-your-content-drupal</link>
+ <description>&lt;p&gt;You&#039;ve decided to make the switch to Drupal. Fantastic! Only one problem: you have to figure out how to move your content from the old database to Drupal. Although there are many &lt;a href=&quot;http://drupal.org/project/Modules/category/64&quot;&gt;import/export modules available&lt;/a&gt; it&#039;s sometimes good to know what&#039;s happening behind the scenes. This session will walk you through my adventures of porting community Web sites into Drupal.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/moving-how-port-your-content-drupal&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/moving-how-port-your-content-drupal#comments</comments>
+ <pubDate>Tue, 13 May 2008 20:04:49 -0400</pubDate>
+ <dc:creator>emmajane</dc:creator>
+ <guid isPermaLink="false">156 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Managing Your Drupal Project with SVN + Trac</title>
+ <link>http://2008.drupalcamptoronto.org/content/managing-your-drupal-project-with-svn-trac</link>
+ <description>&lt;p&gt;I recently led a session on this for the Toronto Drupal Users&#039; Group.  It went reasonably well so I&#039;d be willing to do it again.  There should be more time at DrupalCamp; it won&#039;t be necessary to rush through slides this time.  We may even have time to talk more about alternate strategies.  There will be more folks present, those who missed it the first time and those from out of town, so we should be able to get into a much wider discussion.  And now I know how to get my laptop to work with the projector! ;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/managing-your-drupal-project-with-svn-trac&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/managing-your-drupal-project-with-svn-trac#comments</comments>
+ <pubDate>Tue, 06 May 2008 08:37:02 -0400</pubDate>
+ <dc:creator>colan</dc:creator>
+ <guid isPermaLink="false">94 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Drupal, Flash and web services</title>
+ <link>http://2008.drupalcamptoronto.org/content/drupal-flash-and-web-services</link>
+ <description>&lt;p&gt;An overview of communication between Drupal and Flash, using the services module.&lt;/p&gt;
+&lt;p&gt;-How the services module works&lt;br /&gt;
+-Using Flash / Flex to view and edit Drupal content&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/drupal-flash-and-web-services#comments</comments>
+ <pubDate>Thu, 08 May 2008 13:26:20 -0400</pubDate>
+ <dc:creator>Neal Pollock</dc:creator>
+ <guid isPermaLink="false">116 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Drupal for fun and profit: how to make a career in Open Source</title>
+ <link>http://2008.drupalcamptoronto.org/content/drupal-fun-and-profit-how-make-a-career-open-source</link>
+ <description>&lt;p&gt;Tired of writing proprietary software and not sharing your work? Thinking of ditching that dull corporate job?  Not to worry, Open Source (as in Drupal) is here to the rescue!&lt;/p&gt;
+&lt;p&gt;Learn how to sharing your work and being part of the community can be a rewarding career.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;p&gt;* Open Source / Free software overview&lt;br /&gt;
+* The two license types&lt;br /&gt;
+* Selling a solution&lt;br /&gt;
+* Embedding&lt;br /&gt;
+* Sell services (development, building, theming, tuning, training, …)&lt;br /&gt;
+* Drupal&lt;br /&gt;
+  - The software product&lt;br /&gt;
+  - The project&lt;br /&gt;
+  - The community&lt;br /&gt;
+* Symbiosis&lt;br /&gt;
+* Getting involved: contribute&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/drupal-fun-and-profit-how-make-a-career-open-source&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/drupal-fun-and-profit-how-make-a-career-open-source#comments</comments>
+ <pubDate>Fri, 09 May 2008 17:58:35 -0400</pubDate>
+ <dc:creator>kbahey</dc:creator>
+ <guid isPermaLink="false">128 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Multilingual sites</title>
+ <link>http://2008.drupalcamptoronto.org/content/multilingual-sites</link>
+ <description>&lt;p&gt;Translating the Content and Inteface, theming and wrapping everything together.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/multilingual-sites#comments</comments>
+ <pubDate>Mon, 28 Apr 2008 14:15:17 -0400</pubDate>
+ <dc:creator>drozzy</dc:creator>
+ <guid isPermaLink="false">61 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Non-Profit Drupalling, A view from the inside</title>
+ <link>http://2008.drupalcamptoronto.org/content/non-profit-drupalling-a-view-inside</link>
+ <description>&lt;p&gt;One year ago, Standardbred Canada had a problem. Saddled with a proprietary and outdated CMS, new initiatives and development was next to impossible. The decision was made that change was needed. Thus a project to convert the full functionality of the existing Standardbred Canada website, including the leveraging of live data collected from race tracks across Canada into a fully featured Drupal site came to be.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/non-profit-drupalling-a-view-inside&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/non-profit-drupalling-a-view-inside#comments</comments>
+ <enclosure url="http://2008.drupalcamptoronto.org/sites/2008.drupalcamptoronto.org/files/Before.jpg" length="330735" type="image/jpeg" />
+ <pubDate>Fri, 25 Apr 2008 11:57:20 -0400</pubDate>
+ <dc:creator>NewmanHunter</dc:creator>
+ <guid isPermaLink="false">29 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Workshop: Thinking Outside the Code</title>
+ <link>http://2008.drupalcamptoronto.org/content/workshop-thinking-outside-code</link>
+ <description>&lt;p&gt;In this is workshop we&#039;ll talk about the part of building a Drupal website that doesn&#039;t involve Drupal code. There are lots of models and practices for website development - how does the use of Drupal influence those practices? How do YOU develop a Drupal website? A little one? A medium sized one? A big one?&lt;/p&gt;
+&lt;p&gt;Come to this workshop and share your art.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/workshop-thinking-outside-code#comments</comments>
+ <pubDate>Thu, 08 May 2008 18:02:07 -0400</pubDate>
+ <dc:creator>adixon</dc:creator>
+ <guid isPermaLink="false">120 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>From 2500 to ten: A beginner&#039;s guide to module selection</title>
+ <link>http://2008.drupalcamptoronto.org/content/from-2500-ten-a-beginners-guide-module-selection</link>
+ <description>&lt;p&gt;You&#039;ve installed Drupal for the first time.  You&#039;re finding your way around the GUI are ready to work on your site.  Now it&#039;s time to just add one module to deliver the key function required for your site.  You go to the modules page and, &quot;Look at that!  Over 2000 contributed modules!  How do I choose from that list!?!?!?!?&quot;  &lt;/p&gt;
+&lt;p&gt;This presentation is for beginners and will look at ten key modules that will make your Drupal future brighter.  We&#039;ll narrow down the many, many, many modules to just a few that you&#039;ll really want to start with.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/from-2500-ten-a-beginners-guide-module-selection#comments</comments>
+ <pubDate>Tue, 13 May 2008 14:15:42 -0400</pubDate>
+ <dc:creator>Richard Weait</dc:creator>
+ <guid isPermaLink="false">151 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Drupal Usability : Looking at the Drupal UI from a Subject Oriented Perspective</title>
+ <link>http://2008.drupalcamptoronto.org/content/drupal-usability-looking-drupal-ui-a-subject-oriented-perspective</link>
+ <description>&lt;p&gt;Subject Oriented Design is a much needed and logical follow up to Object Oriented Design – but what is it and how can it help with improving the usability of Drupal&#039;s administration interface? To &lt;em&gt;begin&lt;/em&gt; to answer these questions I’m proposing a session with these goals:&lt;br /&gt;
+•	To explore some of the meaning and importance of subject oriented design.&lt;br /&gt;
+•	To encourage Drupal designers and developers to look at their work from a subject oriented perspective.&lt;br /&gt;
+•	To share some practical hints as to how to go about this. (Given that it&#039;s an endless journey we can only take a few steps in one session.)&lt;br /&gt;
+•	To loosen some of the right bolts in the Drupal UX paradigm while still keeping the architectural pivot points in tact.&lt;br /&gt;
+•	To help me, as a usability expert and Drupal newcomer, understand more about what matters to you, as developers, designers and users of Drupal.&lt;br /&gt;
+•	To establish that Salsa dancing is the best benchmark around for evaluating user experiences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/drupal-usability-looking-drupal-ui-a-subject-oriented-perspective&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/drupal-usability-looking-drupal-ui-a-subject-oriented-perspective#comments</comments>
+ <pubDate>Wed, 07 May 2008 14:36:37 -0400</pubDate>
+ <dc:creator>useradvocate</dc:creator>
+ <guid isPermaLink="false">105 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>BOF: Drupal scalability and performance for large web sites</title>
+ <link>http://2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites</link>
+ <description>&lt;p&gt;Success for a web site is often measured by traffic (more page views, more visitors, ...etc.)&lt;/p&gt;
+&lt;p&gt;Sites can be victims to their own success when increased popularity causes it to be slow, or unable to handle more page views.&lt;/p&gt;
+&lt;p&gt;Here are some things that we will touch on and discuss:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the symptoms to look for?
+&lt;li&gt;What are the areas you investigate for problems?
+&lt;li&gt;What tools are available to help you diagnose issues?
+&lt;li&gt;What are some hints and tips for making your site faster?
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/bof-drupal-scalability-and-performance-large-web-sites#comments</comments>
+ <pubDate>Tue, 13 May 2008 13:03:14 -0400</pubDate>
+ <dc:creator>kbahey</dc:creator>
+ <guid isPermaLink="false">149 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Wrestling the Octopus: Using Pageroute and Nodereference to Manage Complex Node Relationships</title>
+ <link>http://2008.drupalcamptoronto.org/content/wrestling-octopus-using-pageroute-and-nodereference-manage-complex-node-relationships</link>
+ <description>&lt;p&gt;A case study that illustrates how the Pageroute and Nodereference modules can be used together to guide the administration of a variety of nodes of different types, as they all relate to a single node of a specific type.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/wrestling-octopus-using-pageroute-and-nodereference-manage-complex-node-relationships#comments</comments>
+ <pubDate>Thu, 15 May 2008 21:23:43 -0400</pubDate>
+ <dc:creator>surge_martin</dc:creator>
+ <guid isPermaLink="false">188 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Case Study: Mozilla extension hosting with Drupal for ActiveState </title>
+ <link>http://2008.drupalcamptoronto.org/content/case-study-mozilla-extension-hosting-with-drupal-activestate</link>
+ <description>&lt;p&gt;This talk is a short case-study on how to quickly implement hosting for exotic content types in Drupal using Komodo extension hosting functionality on community.activestate.com as an example. I&#039;ll walk users through the current implementation in pieces and discuss the major points such as:&lt;br /&gt;
+- how the initial design goals guided the implementation&lt;br /&gt;
+- handling special file types using cck tricks and the formapi&lt;br /&gt;
+- implementing the extension update service either inside of Drupal, or as a separate script&lt;br /&gt;
+- using simpletest for unit testing of the service&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/case-study-mozilla-extension-hosting-with-drupal-activestate&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/case-study-mozilla-extension-hosting-with-drupal-activestate#comments</comments>
+ <pubDate>Wed, 07 May 2008 19:29:31 -0400</pubDate>
+ <dc:creator>JeffG</dc:creator>
+ <guid isPermaLink="false">107 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Moderating content in Drupal</title>
+ <link>http://2008.drupalcamptoronto.org/content/moderating-content-drupal</link>
+ <description>&lt;p&gt;In this workshop, we will talk about moderating content generated by users (and maybe non-users) in Drupal. If you have a site with lots of user generated content, you may have already run into spam or other forms of abuse intended towards readers of your site. We will take a look at:&lt;br /&gt;
+ * Current solution offered by drupal&lt;br /&gt;
+ * What Mollom aims to solve&lt;br /&gt;
+ * Current solutions offered by third party modules (flag_content, troll, abuse)&lt;br /&gt;
+ * Ideas and other solutions from the community on tackling this issue.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/moderating-content-drupal#comments</comments>
+ <pubDate>Tue, 13 May 2008 09:47:01 -0400</pubDate>
+ <dc:creator>btmash</dc:creator>
+ <guid isPermaLink="false">145 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Crafty Drupal</title>
+ <link>http://2008.drupalcamptoronto.org/content/crafty-drupal</link>
+ <description>&lt;p&gt;You&#039;ve seen &lt;a href=&quot;http://flickr.com/search/?q=drupal%20socks&amp;amp;w=all&amp;amp;m=tags&quot;&gt;The Drupal Socks&lt;/a&gt; now learn how to make your own! In this session crafter Emma Jane Hogbin (creator of The Drupal Socks) will show you a variety of ways to add colour to your crafts. &lt;/p&gt;
+&lt;p&gt;Topics will include:&lt;br /&gt;
+- colour-work in knitting (useful for making socks)&lt;br /&gt;
+- colour-work in crochet (useful for making Drupal hackey sacks)&lt;br /&gt;
+- applique (cut and sew fabric)&lt;br /&gt;
+- duplicate stitching, cross stitch and embroidery (stitching colour onto fabric)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/crafty-drupal&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/crafty-drupal#comments</comments>
+ <pubDate>Mon, 05 May 2008 11:18:29 -0400</pubDate>
+ <dc:creator>emmajane</dc:creator>
+ <guid isPermaLink="false">89 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>BOF: Search modules for Drupal</title>
+ <link>http://2008.drupalcamptoronto.org/content/bof-search-modules-drupal</link>
+ <description>&lt;p&gt;There are 58 modules in the search category for Drupal.  Share your experiences with others.  What search problem did you need to solve?  Which module did you select?  Did it help solve your problem?  &lt;/p&gt;
+&lt;p&gt;This Birds of a Feather Session will allow each attendee to share their experiences, hopes, concerns and shattered dreams.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/bof-search-modules-drupal#comments</comments>
+ <pubDate>Tue, 13 May 2008 14:23:02 -0400</pubDate>
+ <dc:creator>Richard Weait</dc:creator>
+ <guid isPermaLink="false">153 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Online Advocacy - What&#039;s it is, what&#039;s out there, what&#039;s working, what needs work (Saturday, May 24th)</title>
+ <link>http://2008.drupalcamptoronto.org/content/online-advocacy-whats-it-whats-out-there-whats-working-what-needs-work-saturday-may-24th</link>
+ <description>&lt;p&gt;The advent of the Information Superhighway has changed democracy (and it&#039;s nastier, slower cousin, politics) forever.   A number of groups and individuals are trying to change the world, and open source online tools are one of the most effective tactics they have at their disposal. The possibilities for educating, connecting and mobilizing citizens to push for change are opened up by new online tools.  Big words, but what does this have to do with Drupal?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/online-advocacy-whats-it-whats-out-there-whats-working-what-needs-work-saturday-may-24th&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/online-advocacy-whats-it-whats-out-there-whats-working-what-needs-work-saturday-may-24th#comments</comments>
+ <pubDate>Wed, 14 May 2008 14:36:44 -0400</pubDate>
+ <dc:creator>EricS</dc:creator>
+ <guid isPermaLink="false">168 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Automated Testing with SimpleTest</title>
+ <link>http://2008.drupalcamptoronto.org/content/automated-testing-with-simpletest</link>
+ <description>&lt;p&gt;SimpleTest is a unit-testing framework written in PHP that is becoming an integral part of the Drupal development process. Whether you&#039;re hacking core, working on a pet module, or managing a complicated project, regular and proper use of unit tests in Drupal can lead to happy developers and code that glows with correctness.&lt;/p&gt;
+&lt;p&gt;This talk will tackle the following questions:&lt;/p&gt;
+&lt;p&gt;* What is unit testing, and why is it useful?&lt;br /&gt;
+* When should it be used?&lt;br /&gt;
+* How does SimpleTest work for site administrators?&lt;br /&gt;
+* How do developers write tests?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/automated-testing-with-simpletest&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/automated-testing-with-simpletest#comments</comments>
+ <pubDate>Thu, 15 May 2008 00:34:30 -0400</pubDate>
+ <dc:creator>incidentist</dc:creator>
+ <guid isPermaLink="false">179 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Using Actions and Triggers in Drupal 6</title>
+ <link>http://2008.drupalcamptoronto.org/content/using-actions-and-triggers-drupal-6</link>
+ <description>&lt;p&gt;In this session we will look at the Drupal 6 API for actions and triggers.&lt;/p&gt;
+&lt;p&gt;The goal of this section is to demystify actions and triggers for developers and site administrators.&lt;/p&gt;
+&lt;p&gt;We will look at the actions and triggers already preconfigured in Drupal and how to use them in your site.  We will also learn how to define new actions and triggers within modules.&lt;/p&gt;
+&lt;p&gt;Some of this session will involve looking at code so a knowledge of PHP would be helpful.&lt;/p&gt;
+&lt;p&gt;This session is based on a session i attended at Drupalcon Boston.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/using-actions-and-triggers-drupal-6#comments</comments>
+ <pubDate>Mon, 19 May 2008 02:25:42 -0400</pubDate>
+ <dc:creator>dtarc</dc:creator>
+ <guid isPermaLink="false">196 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Building Database Applications in the Drupal CMS</title>
+ <link>http://2008.drupalcamptoronto.org/content/building-database-applications-drupal-cms</link>
+ <description>&lt;p&gt;Drupal is a great content management platform.  But some projects require more than just content management greatness.  For projects that involve building web enabled database applications, you need to model custom systems that don&#039;t exist in any module.  Then you need a way to plug your custom application into your Drupal site alongside all the other content that Drupal is presenting.&lt;/p&gt;
+&lt;p&gt;Freeform Solutions has spent several years developing a database application modeling tool called Formulize, that can be integrated with Drupal websites, as well as other PHP systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://2008.drupalcamptoronto.org/content/building-database-applications-drupal-cms&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://2008.drupalcamptoronto.org/content/building-database-applications-drupal-cms#comments</comments>
+ <pubDate>Wed, 14 May 2008 16:42:15 -0400</pubDate>
+ <dc:creator>jegelstaff</dc:creator>
+ <guid isPermaLink="false">171 at http://2008.drupalcamptoronto.org</guid>
+</item>
+<item>
+ <title>Drupy - Drupal Implemented in Python</title>
+ <link>http://2008.drupalcamptoronto.org/content/drupy-drupal-implemented-python</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://drupy.net/&quot;&gt;Drupy&lt;/a&gt; is a Python port of the Drupal content management system. At the moment, it is at bootstrap phase 5. The objective is to make it as easy as possible for core and contribs Drupal developers to port their existing code to Python.&lt;/p&gt;
+&lt;p&gt;In this session, Clifford Ilkay will provide a quick overview and answer questions about Drupy.&lt;/p&gt;
+</description>
+ <comments>http://2008.drupalcamptoronto.org/content/drupy-drupal-implemented-python#comments</comments>
+ <pubDate>Fri, 16 May 2008 18:01:45 -0400</pubDate>
+ <dc:creator>cilkay</dc:creator>
+ <guid isPermaLink="false">193 at http://2008.drupalcamptoronto.org</guid>
+</item>
+</channel>
+</rss>

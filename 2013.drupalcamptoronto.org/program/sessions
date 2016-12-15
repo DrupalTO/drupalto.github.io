@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/at_dcto2013/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="sessions" />
+<link rel="shortlink" href="sessions" />
+<link rel="alternate" type="application/rss+xml" title="Proposed Sessions" href="http://2013.drupalcamptoronto.org/program/sessions/proposed/rss" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-icon-precomposed" href="../sites/all/themes/at_dcto2013/images/touch-icon-iphone.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../sites/all/themes/at_dcto2013/images/touch-icon-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../sites/all/themes/at_dcto2013/images/touch-icon-iphone-retina.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../sites/all/themes/at_dcto2013/images/touch-icon-ipad-retina.png" />
+<title>Accepted Sessions | DrupalCamp Toronto 2013</title>
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_et-tYsag6SMGMAKgBbPz2Zc551MqCtUMgdN2wVk2MVk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_SJIMTPevqZ2kfsWUv381hqa_kp1GO9ynvz-KULUxlB4.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_VuFETsFIkQ427QSNqneS1kKjEkFocUq1WaSTluTysAQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_8SJRcCu6UmiVrHllBUTG6rWC54TERAaWh5STruRtMsY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_cP09dZwcUY9t5GT-96kZ3VBCeNjRiWqCVIMndOCpLUY.css" media="only screen" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_8I7LHsvv6MWiLjCsiyzR4diWrMgf28jd07qHr2WV944.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_Ev6XYKXJzpU5nxmI9F2mAQ240FR7h5XJHIV0O2crMWU.css" media="only screen" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans|Oswald' rel='stylesheet' type='text/css'>
+<script src="../sites/default/files/js/js_zzcIWOou_jnX0ZWAIA4sb6Xy_p5a8FZNA0GySvuWjPU.js"></script>
+<script src="../sites/default/files/js/js_f7OA7wwBAX5VgMM7dBh2IxNlG5lGe9XXyEEZTPNBFGE.js"></script>
+<script src="../sites/default/files/js/js_VyPMrI7PNxuD2x5Nx2rDHrjb5ecVSoEfdoNr8A81-Nk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"at_dcto2013","theme_token":"XQlv8C-TTK8gKhJMyoDIJaz3vvp5L7B10wPCwGblrSY","js":{"profiles\/cod\/modules\/contrib\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/cod\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"misc\/tableheader.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"profiles\/cod\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1,"profiles\/cod\/themes\/adaptivetheme\/at_core\/scripts\/menu-toggle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/cod\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cod\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/cod\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cod\/modules\/contrib\/ckeditor\/ckeditor.css":1,"profiles\/cod\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cod\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"profiles\/cod\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at_dcto2013\/css\/global.base.css":1,"sites\/all\/themes\/at_dcto2013\/css\/global.styles.css":1,"public:\/\/adaptivetheme\/at_dcto2013_files\/at_dcto2013.responsive.layout.css":1,"public:\/\/adaptivetheme\/at_dcto2013_files\/at_dcto2013.menutoggle.css":1,"public:\/\/adaptivetheme\/at_dcto2013_files\/at_dcto2013.responsive.styles.css":1}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","dropShadows":false},"plugins":{"touchscreen":{"behaviour":"0","mode":"useragent_custom","useragent":"iphone|android|ipad"},"bgiframe":true,"supersubs":{"maxWidth":"25"}}}},"adaptivetheme":{"at_dcto2013":{"layout_settings":{"bigscreen":"two-sidebars-right","tablet_landscape":"two-sidebars-right","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-stack","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:569px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:568px)","smalltouch_portrait":"only screen and (max-width:320px)"},"menu_toggle_settings":{"menu_toggle_tablet_portrait":"false","menu_toggle_tablet_landscape":"false"}}}});</script>
+<!--[if lt IE 9]>
+<script src="http://2013.drupalcamptoronto.org/profiles/cod/themes/adaptivetheme/at_core/scripts/html5.js?nrsktz"></script>
+<script src="http://2013.drupalcamptoronto.org/profiles/cod/themes/adaptivetheme/at_core/scripts/respond.js?nrsktz"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-program page-program-sessions site-name-hidden atr-7.x-3.x atv-7.x-3.1+68-dev site-name-drupalcamp-toronto-2013 section-program page-views">
+  <div id="skip-link" class="nocontent">
+    <a href="sessions#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page" class="container page at-mt">
+
+    <!-- !Leaderboard Region -->
+    <div class="region region-leaderboard"><div class="region-inner clearfix"><nav id="block-menu-menu-quick-links" class="block block-menu no-title odd first block-count-1 block-region-leaderboard block-menu-quick-links"  role="navigation"><div class="block-inner clearfix">  
+  
+  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1047"><a href="../index.html" title="">Home</a></li><li class="leaf menu-depth-1 menu-item-1051"><a href="../news">News</a></li><li class="leaf menu-depth-1 menu-item-1048"><a href="../aboot" title="">Aboot</a></li><li class="last leaf menu-depth-1 menu-item-1257"><a href="../contact" title="">Contact</a></li></ul>
+  </div></nav><nav id="block-menu-menu-service-links" class="block block-menu no-title even last block-count-2 block-region-leaderboard block-menu-service-links"  role="navigation"><div class="block-inner clearfix">  
+  
+  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1032"><a href="../search" title="">Search</a></li><li class="leaf menu-depth-1 menu-item-1033"><a href="../user" title="">User</a></li><li class="last leaf menu-depth-1 menu-item-1034"><a href="../cart" title="">Cart</a></li></ul>
+  </div></nav></div></div>
+    <header id="header" class="clearfix" role="banner">
+
+              <!-- !Branding -->
+        <div id="branding" class="branding-elements clearfix">
+
+                      <div id="logo">
+              <a href="../index.html" title="Home page"><img class="site-logo" src="../sites/all/themes/at_dcto2013/logo.png" alt="DrupalCamp Toronto 2013" /></a>            </div>
+          
+                      <!-- !Site name and Slogan -->
+            <hgroup id="name-and-slogan">
+
+                              <h1 class="element-invisible" id="site-name"><a href="../index.html" title="Home page">DrupalCamp Toronto 2013</a></h1>
+              
+                              <h2 id="site-slogan">Landing July 13 - 14, 2013<br /> @ CSI Annex, Toronto, Canada</h2>
+              
+            </hgroup>
+          
+        </div>
+      
+      <!-- !Header Region -->
+      
+    </header>
+
+    <!-- !Navigation -->
+    <div id="menu-bar" class="nav clearfix"><nav id="block-superfish-1" class="block block-superfish menu-wrapper menu-bar-wrapper clearfix at-menu-toggle odd first last block-count-3 block-region-menu-bar block-1" >  
+      <h2 class="element-invisible block-title">Main menu</h2>
+  
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none"><li id="menu-1042-1" class="active-trail sf-depth-1 menuparent"><a href="../event-info" class="sf-depth-1 menuparent">Event Info</a><ul><li id="menu-979-1" class="sf-depth-2 sf-no-children"><a href="../location" class="sf-depth-2">Location</a></li><li id="menu-1397-1" class="sf-depth-2 sf-no-children"><a href="../program" class="sf-depth-2">Program</a></li><li id="menu-1044-1" class="sf-depth-2 sf-no-children"><a href="../keynote-speakers" class="sf-depth-2">Keynote Speakers</a></li><li id="menu-1043-1" class="sf-depth-2 sf-no-children"><a href="../bofs" class="sf-depth-2">BoFs</a></li><li id="menu-1380-1" class="sf-depth-2 sf-no-children"><a href="http://2013.drupalcamptoronto.org/program/sessions/proposed" title="" class="sf-depth-2">Proposed Sessions</a></li><li id="menu-401-1" class="active-trail sf-depth-2 sf-no-children"><a href="sessions" class="sf-depth-2 active">Sessions</a></li></ul></li><li id="menu-1041-1" class="sf-depth-1 menuparent"><a href="../community" class="sf-depth-1 menuparent">Community</a><ul><li id="menu-1236-1" class="sf-depth-2 sf-no-children"><a href="../attendees" title="" class="sf-depth-2">Attendees</a></li><li id="menu-1023-1" class="sf-depth-2 sf-no-children"><a href="../volunteers" class="sf-depth-2">Volunteers</a></li><li id="menu-980-1" class="sf-depth-2 sf-no-children"><a href="../dug-to" class="sf-depth-2">DUG-TO</a></li></ul></li><li id="menu-492-1" class="sf-depth-1 menuparent"><a href="../sponsors" class="sf-depth-1 menuparent">Sponsors</a><ul><li id="menu-1035-1" class="sf-depth-2 sf-no-children"><a href="../become-a-sponsor" class="sf-depth-2">Become a Sponsor</a></li></ul></li></ul>
+  </nav></div>        
+    <!-- !Breadcrumbs -->
+    
+    <!-- !Messages and Help -->
+    <div id="messages"></div>    
+    <!-- !Secondary Content Region -->
+    
+    <div id="columns" class="columns clearfix">
+      <div id="content-column" class="content-column" role="main">
+        <div class="content-inner">
+
+          <!-- !Highlighted region -->
+          
+          <section id="main-content">
+
+            
+            <!-- !Main Content Header -->
+                          <header id="main-content-header" class="clearfix">
+
+                                  <h1 id="page-title">
+                    Accepted Sessions                  </h1>
+                
+                
+              </header>
+            
+            <!-- !Main Content -->
+                          <div id="content" class="region">
+                <div id="block-system-main" class="block block-system no-title odd first last block-count-4 block-region-content block-main" >  
+  
+  <div class="view view-sessions view-id-sessions view-display-id-page_1 view-dom-id-ac479f466cf9e2dfa4e655ed378773d9">
+        
+      <div class="view-filters">
+      <form action="http://2013.drupalcamptoronto.org/program/sessions/accepted" method="get" id="views-exposed-form-sessions-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-experience-value-wrapper" class="views-exposed-widget views-widget-filter-field_experience_value">
+                  <label for="edit-field-experience-value">
+            Experience          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-experience-value">
+ <select id="edit-field-experience-value" name="field_experience_value" class="form-select"><option value="All" selected="selected">- Any -</option><option value="beginner">Beginner</option><option value="intermediate">Intermediate</option><option value="advanced">Advanced</option></select>
+</div>
+        </div>
+              </div>
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by">
+  <label for="edit-sort-by">Sort by </label>
+ <select id="edit-sort-by" name="sort_by" class="form-select"><option value="title" selected="selected">Title</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order">
+  <label for="edit-sort-order">Order </label>
+ <select id="edit-sort-order" name="sort_order" class="form-select"><option value="ASC" selected="selected">Asc</option><option value="DESC">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-sessions" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <table class="views-table sticky-enabled cols-4" >
+         <thead>
+      <tr>
+                  <th >
+            Session          </th>
+                  <th class="views-field views-field-field-speakers" >
+            Speaker(s)          </th>
+                  <th class="views-field views-field-body" >
+                      </th>
+                  <th class="views-field views-field-field-experience" >
+            Experience level          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td >
+            <a href="../sessions/aegir-2-whats-new">Aegir 2: What&#039;s new?</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            gboudrias          </td>
+                  <td class="views-field views-field-body" >
+            <p>The next major version of the Aegir Hosting System is right around the corner! Come find out about its powerful new features.</p>
+
+<p>...          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/agile-101">Agile 101</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            shanly          </td>
+                  <td class="views-field views-field-body" >
+            <p>Too often agile is mistaken to be equivalent to Scrum. In reality, Scrum is just one facet on the agile gem. Come hear about the motivation and philosophy behind agile.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/building-drupal-sites-the-lean-way-via-content-strategy-and-agile-development">Building Drupal sites the Lean way, via content strategy and agile development</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            kev          </td>
+                  <td class="views-field views-field-body" >
+            <p>There are so many buzzwords coming from Silicon Valley these days: <em>Agile!  Lean!</em></p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/case-study-building-a-conference-website-with-drupal">Case Study: Building a Conference Website with Drupal</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            Chris Luckhardt, crispin          </td>
+                  <td class="views-field views-field-body" >
+            <p>We'll provide a complete overiew of how the DrupalCamp Toronto 2013 website was conceived, designed, developed and managed.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/case-study-drupal-in-highered-digital-textbooks-and-more">Case Study: Drupal in HigherEd - Digital Textbooks and More</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            ydahi          </td>
+                  <td class="views-field views-field-body" >
+            <p>At Ryerson, we have been working closely with Faculty and Students to develop an open learning environment built on Drupal.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/do-the-right-thing-accessibility-and-inclusive-design">Do the right thing: accessibility and inclusive design</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            crispin          </td>
+                  <td class="views-field views-field-body" >
+            <p>What developers, designers, content managers, and stakeholders need to know about the current state of web accessiblity, the laws in Ontario enforcing accessibility by January 2014, and how Drupal...          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/drupal-development-with-vagrant-getting-started">Drupal Development with Vagrant: Getting Started</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            amir.kadivar          </td>
+                  <td class="views-field views-field-body" >
+            <p>Vagrant is an open source tool that makes VirtualBox easy to use and developer friendly.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/drupal-distribution-strategies-translating-business-requirements-into-technical">Drupal Distribution Strategies: Translating business requirements into technical specifications for distribution</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            Sean Rioux          </td>
+                  <td class="views-field views-field-body" >
+            <p>In this session we would explore how effective planning and research&nbsp;can help establish a sectoral&nbsp;framework to guide your distribution architecture.&nbsp;From establishing a&nbsp;...          </td>
+                  <td class="views-field views-field-field-experience" >
+            Advanced          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/fast-local-development-with-kalabox-pantheon">FAST local development with Kalabox + Pantheon</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            Andrew_Mallis          </td>
+                  <td class="views-field views-field-body" >
+            <p>Imagine you are an artist who wants to build a site for your studio. You don’t know anything about building a site and you are intimidated by all of these “hosting” plans. DNS WTF? Instead you...          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/from-interior-decorator-to-architect-changing-how-we-work">From Interior Decorator to Architect: Changing How We Work</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            emmajane          </td>
+                  <td class="views-field views-field-body" >
+            <p>In 2008 I co-authored Front End Drupal. The Web was a different world back then. We were seeing the rise of a new role on the Drupal team: the themer.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Advanced          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/git-makes-me-angry-inside">Git Makes Me Angry Inside</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            emmajane          </td>
+                  <td class="views-field views-field-body" >
+            <p>You are a clever and talented person. You create beautiful designs, or perhaps you can architect a system that even a cat could use. Your peers adore you. Your clients love you.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/how-to-incrementally-integrate-qa-in-an-agile-development-process">How to incrementally integrate QA in an Agile Development Process</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            ezufelt, shanly, benjamin_mark          </td>
+                  <td class="views-field views-field-body" >
+            <p>As Drupal continues to grow to be a platform fit for large scale enterprise applications, integrating Quality Assurance (QA) into development processes will become more of a pressing concern.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/managing-your-drupal-project-with-git">Managing Your Drupal Project with Git</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            colan          </td>
+                  <td class="views-field views-field-body" >
+            <p>This session will introduce Git as a version control system (VCS).  We'll review basic use, and then have a discussion on other approaches (e.g. submodules).</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/migrate-all-the-things">Migrate all the things!</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            Ryan Weal          </td>
+                  <td class="views-field views-field-body" >
+            <p>Migrate allows you to bring content into your new Drupal site from a variety of data sources including past versions of Drupal.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Advanced          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/modules-to-help-streamline-user-experience-improve-workflows">Modules to Help Streamline User Experience &amp; Improve Workflows</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            qasim          </td>
+                  <td class="views-field views-field-body" >
+            <p>Whether Drupal is used to create simple online publishing solutions or more robust web applications, developers often focus on implementing whatever a 3rd party designer has specified for the'...          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <a href="../sessions/proviso-a-revolution-in-local-development">Proviso: a revolution in local development</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            Andrew_Mallis, patcon          </td>
+                  <td class="views-field views-field-body" >
+            <p>Do you use MAMP? XAMPP? WAMP? Acquia Dev Desktop?</p>
+
+<p>Do you feel FREE?</p>
+
+<p>Do you feel POWERFUL?</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Intermediate          </td>
+              </tr>
+          <tr class="odd">
+                  <td >
+            <a href="../sessions/single-page-sites-with-backbonejs-and-drupal">Single Page Sites with Backbone.js and Drupal</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+                      </td>
+                  <td class="views-field views-field-body" >
+            <p>We will explore building single page sites and JavaScript applications with Backbone.js using Drupal as a backend. This is a useful technique for building fast websites and mobile apps using...          </td>
+                  <td class="views-field views-field-field-experience" >
+                      </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td >
+            <a href="../sessions/whose-hook-is-it-anyway-a-comedic-look-into-drupal-8">Whose hook is it anyway?: A comedic look into Drupal 8</a>          </td>
+                  <td class="views-field views-field-field-speakers" >
+            emarchak, mparker17          </td>
+                  <td class="views-field views-field-body" >
+            <p>Improvisors and Developers team up to explain the inner workings of a Drupal 8 page load from start to finish.</p>          </td>
+                  <td class="views-field views-field-field-experience" >
+            Beginner          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  </div>              </div>
+            
+            <!-- !Feed Icons -->
+            
+            
+          </section><!-- /end #main-content -->
+
+          <!-- !Content Aside Region-->
+          
+        </div><!-- /end .content-inner -->
+      </div><!-- /end #content-column -->
+
+      <!-- !Sidebar Regions -->
+      <div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><section id="block-views-sponsors-block-1" class="block block-views odd first block-count-5 block-region-sidebar-first block-sponsors-block-1" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Platinum Sponsor</h2>
+  
+  <div class="block-content content"><div class="view view-sponsors view-id-sponsors view-display-id-block_1 view-dom-id-4da250cd4ebcbbeb8a5e4e339d644bd3">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../sponsors/myplanet-digital"><img class="image-style-medium" src="../sites/default/files/styles/medium/public/logo-myplanetdigital.png" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-views-sponsors-block-2" class="block block-views even block-count-6 block-region-sidebar-first block-sponsors-block-2" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Gold Sponsor</h2>
+  
+  <div class="block-content content"><div class="view view-sponsors view-id-sponsors view-display-id-block_2 view-dom-id-ddca47ffcc547562a080e265d49107f3">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../sponsors/digital-echidna"><img class="image-style-medium" src="../sites/default/files/styles/medium/public/logo-digitalechidna.png" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><section id="block-views-sponsors-block-3" class="block block-views odd last block-count-7 block-region-sidebar-first block-sponsors-block-3" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Silver Sponsor</h2>
+  
+  <div class="block-content content"><div class="view view-sponsors view-id-sponsors view-display-id-block_3 view-dom-id-ddb9b0ff1a63801297633d4a65a5c5c2">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-sponsor-logo">        <div class="field-content"><a href="../sponsors/verge-interactive"><img class="image-style-medium" src="../sites/default/files/styles/medium/public/verge_logo3.png" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section></div></div>      
+    </div><!-- /end #columns -->
+
+    <!-- !Tertiary Content Region -->
+    
+    <!-- !Footer -->
+          <footer id="footer" class="clearfix" role="contentinfo">
+        <div class="region region-footer"><div class="region-inner clearfix"><nav id="block-menu-menu-footer-menu" class="block block-menu no-title odd first block-count-8 block-region-footer block-menu-footer-menu"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1230"><a href="../event-info" title="">Event Info</a></li><li class="leaf menu-depth-1 menu-item-1038"><a href="../location" title="">Location</a></li><li class="leaf menu-depth-1 menu-item-1398"><a href="../program" title="">Program</a></li><li class="leaf menu-depth-1 menu-item-1233"><a href="../keynote-speakers" title="">Keynote speakers</a></li><li class="leaf active-trail menu-depth-1 menu-item-1231"><a href="sessions" title="" class="active-trail active">Sessions</a></li><li class="last leaf menu-depth-1 menu-item-1037"><a href="../bofs" title="">BoFs</a></li></ul></div>
+  </div></nav><nav id="block-menu-menu-footer-menu-2" class="block block-menu no-title even block-count-9 block-region-footer block-menu-footer-menu-2"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1238"><a href="../community" title="">Community</a></li><li class="leaf menu-depth-1 menu-item-1237"><a href="../attendees" title="">Attendees</a></li><li class="leaf menu-depth-1 menu-item-1239"><a href="../volunteers" title="">Volunteers</a></li><li class="last leaf menu-depth-1 menu-item-1240"><a href="../dug-to" title="">DUG-TO</a></li></ul></div>
+  </div></nav><nav id="block-menu-menu-footer-menu-3" class="block block-menu no-title odd block-count-10 block-region-footer block-menu-footer-menu-3"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1243"><a href="../sponsors" title="">Sponsors</a></li><li class="leaf menu-depth-1 menu-item-1244"><a href="../become-a-sponsor" title="">Become a Sponsor</a></li><li class="leaf menu-depth-1 menu-item-1245"><a href="../news" title="">News</a></li><li class="last leaf menu-depth-1 menu-item-1246"><a href="../aboot" title="">Aboot</a></li></ul></div>
+  </div></nav><nav id="block-menu-menu-footer-menu-4" class="block block-menu no-title even block-count-11 block-region-footer block-menu-footer-menu-4"  role="navigation"><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-1250"><a href="../user/login" title="">User Login</a></li><li class="leaf menu-depth-1 menu-item-1252"><a href="../cart" title="">My Cart</a></li><li class="leaf menu-depth-1 menu-item-1249"><a href="../search" title="">Search</a></li><li class="last leaf menu-depth-1 menu-item-1248"><a href="../contact" title="">Contact</a></li></ul></div>
+  </div></nav><div id="block-block-4" class="block block-block no-title odd block-count-12 block-region-footer block-4" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="footerbuttons">
+<div class="social"><span class="ss-social-circle">
+<a href="https://twitter.com/drupalcampto">Twitter</a>
+<a href="https://www.facebook.com/drupalcamptoronto">Facebook</a>
+<a href="../rss.xml">RSS</a>
+</span></div>
+<div class="dugto"><a href="http://groups.drupal.org/toronto"><img src="../sites/default/files/DUG-TO_logo_160x232.png" alt="Toronto Drupal User Group" height="" width="" /></a></div>
+<div class="pantheon"><a href="https://www.getpantheon.com/?utm_campaign=poweredby"><img src="../sites/default/files/getpantheon.png" width="" height="" border="0" alt="Powered by Pantheon" /></a></div>
+</div></div>
+  </div></div><div id="block-block-1" class="block block-block no-title even last block-count-13 block-region-footer block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p><strong>DrupalCamp Toronto</strong> is brought to you by the <a href="http://groups.drupal.org/toronto">Toronto Drupal User Group</a> with the generous support of an amazing team of <a href="../volunteers">volunteers</a>.<br />
+This website is built on <a href="http://usecod.com/">COD</a>. Creative design by <a href="http://www.substancedesign.ca">Substance</a>.<br />
+<a href="http://drupal.org">Drupal</a> is a registered trade mark of <a href="http://buytaert.net/">Dries Buytaert</a>.<br />
+© 2013 <a href="http://groups.drupal.org/toronto">Toronto Drupal User Group</a></p>
+
+<p><a href="sessions#">Back to top</a></p>
+</div>
+  </div></div></div></div>      </footer>
+    
+  </div>
+</div>
+  <div class="region region-page-bottom"><div class="region-inner clearfix">
+  <script src="http://static.getclicky.com/js" type="text/javascript"></script>
+  <script type="text/javascript">try { clicky.init(100596793); }catch(e){}</script>
+  <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/100596793ns.gif" /></p></noscript></div></div></body>
+</html>

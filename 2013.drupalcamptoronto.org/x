@@ -1,0 +1,5 @@
+cat list | while read FILE
+do
+  sed -e 's/" > tmp
+  mv tmp "$FILE"
+done

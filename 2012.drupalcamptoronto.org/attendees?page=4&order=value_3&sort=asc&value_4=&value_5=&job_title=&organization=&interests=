@@ -1,0 +1,714 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Attendees | DrupalCamp Toronto 2012</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ctools/css/ctools.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/date/date_popup/themes/jquery.timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/filefield/filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/panels/css/panels.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_order/uc_order.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_product/uc_product.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/ubercart/uc_store/uc_store.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/ckeditor/ckeditor.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-vertical.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/libraries/superfish/css/superfish-navbar.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="profiles/cod/modules/contrib/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/layout.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/base.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/messages.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/html-elements.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/forms.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/tables.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/page.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/articles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/comments.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/blocks.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/navigation.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/skins.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/at_dcto2012/css/styles-extra.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/adaptivetheme/adaptivetheme/css/edit-links.css" />
+  <style type="text/css">div.container{width:960px;}.two-sidebars .content-inner{margin-left:240px; margin-right:240px;}.sidebar-first .content-inner{margin-left:240px; margin-right:0;}.sidebar-last .content-inner{margin-right:240px; margin-left:0;}#sidebar-first{width:240px;margin-left:-100%;}#sidebar-last{width:240px;margin-left:-240px;}</style>  <script type="text/javascript" src="sites/all/modules/jquery_update/replace/jquery.min.js"></script>
+<script type="text/javascript" src="misc/drupal.js"></script>
+<script type="text/javascript" src="profiles/cod/modules/contrib/panels/js/panels.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/superfish.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supersubs.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/supposition.js"></script>
+<script type="text/javascript" src="sites/all/libraries/superfish/sftouchscreen.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js"></script>
+<script type="text/javascript" src="profiles/cod/modules/contrib/views/js/base.js"></script>
+<script type="text/javascript" src="profiles/cod/modules/contrib/views/js/dependent.js"></script>
+<script type="text/javascript" src="misc/tableheader.js"></script>
+<script type="text/javascript" src="sites/all/themes/adaptivetheme/adaptivetheme/js/at-scripts.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 10, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});
+//--><!]]>
+</script>
+
+  <script type="text/javascript" src="http://use.typekit.net/qnu2rfd.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+
+<body class="not-front not-logged-in one-sidebar sidebar-last section-attendees">
+<div class="page-wrapper">
+	<div id="page" class="container">
+		<div id="skip-nav" class="show-on-focus">
+			<a href="attendees?page=4&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=#main-content">Skip to main content</a>
+		</div>
+
+    
+    
+    <div id="header" class="container clearfix">
+
+      
+                <div id="logo">
+            <a href="index.html">
+                <a href="index.html" rel="home"><img src="sites/all/themes/adaptivetheme/at_dcto2012/logo.png" alt="DrupalCamp Toronto 2012 logo" title="Home page"/></a>            </a>
+        </div>
+                
+
+      
+              
+        
+        <div id="header-right">
+            <div id="social-links">
+                <ul>
+                    <li><a href="http://twitter.com/drupalcampTO"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/twitter_32.png" /></a></li>
+                    <li><a href="http://www.facebook.com/drupalcamptoronto"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/facebook_32.png" /></a></li>
+                    <li><a href="http://www.flickr.com/groups/drupalcamptoronto/"><img src="sites/all/themes/adaptivetheme/at_dcto2012/images/flickr_32.png" /></a></li>
+                </ul>
+            </div>
+
+                          <div id="primary-menu" class="nav clearfix">
+                                    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-3 sf-single-items-3 dcto2012superfish"><li id="menu-397-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="program" title="Program" class="sf-depth-1 menuparent">Program</a><ul><li id="menu-360-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="program/session-schedule" title="" class="sf-depth-2">Session Schedule</a></li><li id="menu-2562-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="program/session-schedule/your-schedule" title="" class="sf-depth-2">Your Schedule</a></li><li id="menu-2120-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="keynote-speakers" title="Keynote Speakers" class="sf-depth-2">Keynote Speakers</a></li><li id="menu-2119-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="birds-of-a-feather" title="Birds of a Feather" class="sf-depth-2">BoFs</a></li><li id="menu-2118-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="party" title="Party" class="sf-depth-2">Party</a></li></ul></li><li id="menu-921-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="aboot" title="Read all &quot;aboot&quot; DrupalCamp Toronto 2012." class="sf-depth-1 menuparent">Aboot</a><ul><li id="menu-922-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="location" title="Location details for DrupalCamp Toronto 2012." class="sf-depth-2">Location</a></li><li id="menu-2310-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="toronto-drupal-user-group" title="Toronto Drupal User Group" class="sf-depth-2">DUG-TO</a></li><li id="menu-2318-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="drupal-association" title="Drupal Association" class="sf-depth-2">Drupal Association</a></li></ul></li><li id="menu-1944-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="register" class="sf-depth-1">Register</a></li><li id="menu-878-1" class="active-trail middle even sf-item-4 sf-depth-1 sf-no-children"><a href="attendees" title="Connect with attendees" class="sf-depth-1 active">Attendees</a></li><li id="menu-2423-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="sponsors" title="Sponsorships" class="sf-depth-1 menuparent">Sponsors</a><ul><li id="menu-2312-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="become-a-sponsor" title="Become a Sponsor" class="sf-depth-2">Sponsor Us!</a></li></ul></li><li id="menu-952-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="contact" title="Contact" class="sf-depth-1">Contact</a></li></ul>                              </div>
+                    </div>
+        
+         <!--
+                   -->
+
+    </div> <!-- /header -->
+        
+        
+                
+                
+    <div id="columns"><div class="columns-inner clearfix">
+
+      <div id="content-column"><div class="content-inner">
+
+        
+        
+        <div id="main-content">
+
+                      <div id="main-content-header">
+              <h1 id="page-title">Attendees</h1>                          </div>
+          
+          		  
+		  <div id="content"><div class="view view-attendees view-id-attendees view-display-id-page_1 view-dom-id-1">
+    
+      <div class="view-filters">
+      <form action="attendees"  accept-charset="UTF-8" method="get" id="views-exposed-form-attendees-page-1">
+<div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clear-block">
+          <div class="views-exposed-widget views-widget-filter-value_4">
+                  <label for="edit-value-4">
+            First name          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-value-4-wrapper">
+ <input type="text" maxlength="128" name="value_4" id="edit-value-4" size="30" value="" class="form-text" />
+</div>
+        </div>
+      </div>
+          <div class="views-exposed-widget views-widget-filter-value_5">
+                  <label for="edit-value-5">
+            Last name          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-value-5-wrapper">
+ <input type="text" maxlength="128" name="value_5" id="edit-value-5" size="30" value="" class="form-text" />
+</div>
+        </div>
+      </div>
+          <div class="views-exposed-widget views-widget-filter-value_1">
+                  <label for="edit-job-title">
+            Job title          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-job-title-wrapper">
+ <input type="text" maxlength="128" name="job_title" id="edit-job-title" size="30" value="" class="form-text" />
+</div>
+        </div>
+      </div>
+          <div class="views-exposed-widget views-widget-filter-value_3">
+                  <label for="edit-organization">
+            Organization          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-organization-wrapper">
+ <input type="text" maxlength="128" name="organization" id="edit-organization" size="30" value="" class="form-text" />
+</div>
+        </div>
+      </div>
+          <div class="views-exposed-widget views-widget-filter-value">
+                  <label for="edit-interests">
+            Interests          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-interests-wrapper">
+ <input type="text" maxlength="128" name="interests" id="edit-interests" size="30" value="" class="form-text" />
+</div>
+        </div>
+      </div>
+        <div class="views-exposed-widget views-submit-button">
+      <span class="button-wrapper edit-submit-attendees"><span class="button"><input type="submit" id="edit-submit-attendees" value="Apply"  class="form-submit" /></span></span>
+    </div>
+  </div>
+</div>
+
+</div></form>
+    </div>
+  
+  
+      <div class="view-content">
+      <table class="views-table sticky-enabled cols-4">
+    <thead>
+    <tr>
+              <th class="views-field views-field-value-4">
+          <a href="attendees?order=value_4&amp;sort=asc&amp;page=4&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="sort by Name" class="active">Name</a>        </th>
+              <th class="views-field views-field-value-1">
+          <a href="attendees?order=value_1&amp;sort=asc&amp;page=4&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="sort by Job title" class="active">Job title</a>        </th>
+              <th class="views-field views-field-value-3 active">
+          <a href="attendees?order=value_3&amp;sort=desc&amp;page=4&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="sort by Organization" class="active">Organization<img src="misc/arrow-desc.png" alt="sort icon" title="sort descending" width="13" height="13" /></a>        </th>
+              <th class="views-field views-field-value">
+          Interests        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-value-4">
+            <a href="users/johnboranprasit">john</a> <a href="users/johnboranprasit">boranprasit</a> <div class="user-picture"><a href="users/johnboranprasit" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="john.boranprasit&#039;s picture" title="john.boranprasit&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            RSA Canada          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/simoneabel">simone</a> <a href="users/simoneabel">abel</a> <div class="user-picture"><a href="users/simoneabel" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="simoneAbel&#039;s picture" title="simoneAbel&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/simoneabel">eBusiness Analyst</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            RSA Canada          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/simonbrown">simon</a> <a href="users/simonbrown">brown</a> <div class="user-picture"><a href="users/simonbrown" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="simon.brown&#039;s picture" title="simon.brown&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            RSA Canada          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/ryanpage">ryan</a> <a href="users/ryanpage">page</a> <div class="user-picture"><a href="users/ryanpage" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="ryan.page&#039;s picture" title="ryan.page&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            RSA Canada          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/bergusel">Bernd</a> <a href="users/bergusel">Gutgesell</a> <div class="user-picture"><a href="users/bergusel" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="bergusel&#039;s picture" title="bergusel&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/peterwooster">Peter</a> <a href="users/peterwooster">Wooster</a> <div class="user-picture"><a href="users/peterwooster" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="PeterWooster&#039;s picture" title="PeterWooster&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/peterwooster">Owner</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Silver Maple Web          </td>
+                  <td class="views-field views-field-value">
+            Web Design, Web Development, Photography, Wood Working, Painting          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/mgifford">Mike</a> <a href="users/mgifford">Gifford</a> <div class="user-picture"><a href="users/mgifford" title="View user profile."><img src="sites/default/files/pictures/picture-141.jpg" alt="mgifford&#039;s picture" title="mgifford&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/mgifford">President</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            OpenConcept Consulting Inc.          </td>
+                  <td class="views-field views-field-value">
+            Accessibility          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/shawnar">Shawna</a> <a href="users/shawnar">Reibling</a> <div class="user-picture"><a href="users/shawnar" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="ShawnaR&#039;s picture" title="ShawnaR&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/shawnar">Knowledge mobilization officer</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Wilfrid Laurier University          </td>
+                  <td class="views-field views-field-value">
+            drupal for university uses, as a user and information sharing person, not as a developer, or IT person.          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/acrazyanimal">Jesse</a> <a href="users/acrazyanimal">Payne</a> <div class="user-picture"><a href="users/acrazyanimal" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="acrazyanimal&#039;s picture" title="acrazyanimal&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/acrazyanimal">Harbinger of awesomeness (&amp; Senior developer)</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Openconcept inc.          </td>
+                  <td class="views-field views-field-value">
+            Snips and snails and puppy dog tails., Rules, LMS, Drupal native CRM, Accessibility, Responsive design          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/chyatt">Craig</a> <a href="users/chyatt">Hyatt</a> <div class="user-picture"><a href="users/chyatt" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="chyatt&#039;s picture" title="chyatt&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/chyatt">Cluster Lead, Web Solutions</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Computing &amp; Communications Services - University of Guelph          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/pgrucza">Peter</a> <a href="users/pgrucza">Grucza</a> <div class="user-picture"><a href="users/pgrucza" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="pgrucza&#039;s picture" title="pgrucza&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+            new to drupal, interested in integration with other systems, drupal development and extensibility, usability & accessibility both public facing and system / content maintenance          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/dalin">Dave</a> <a href="users/dalin">Hansen-Lange</a> <div class="user-picture"><a href="users/dalin" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="Dalin&#039;s picture" title="Dalin&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/dalin">Technical Lead</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Advomatic          </td>
+                  <td class="views-field views-field-value">
+            High Performance, Maintainability, Code Quality, Technical Management, Velocity, Beer, Unicycling          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/trevorkjorlien">Trevor</a> <a href="users/trevorkjorlien">Kjorlien</a> <div class="user-picture"><a href="users/trevorkjorlien" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="trevorkjorlien&#039;s picture" title="trevorkjorlien&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/everettzufeltca">Everett</a> <a href="users/everettzufeltca">Zufelt</a> <div class="user-picture"><a href="users/everettzufeltca" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="everett@zufelt.ca&#039;s picture" title="everett@zufelt.ca&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/everettzufeltca">Tech Lead</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Myplanet Digital          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/skaught">Scott</a> <a href="users/skaught">Carpenter</a> <div class="user-picture"><a href="users/skaught" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="skaught&#039;s picture" title="skaught&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/skaught">Web Developer</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            goodscott          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/abeer486">Abeer</a> <a href="users/abeer486">Rahman</a> <div class="user-picture"><a href="users/abeer486" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="abeer486&#039;s picture" title="abeer486&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/adeebrahman">Adeeb</a> <a href="users/adeebrahman">Rahman</a> <div class="user-picture"><a href="users/adeebrahman" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="adeeb.rahman&#039;s picture" title="adeeb.rahman&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/andrewmcalorum">Andrew</a> <a href="users/andrewmcalorum">McAlorum</a> <div class="user-picture"><a href="users/andrewmcalorum" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="andrew.mcalorum&#039;s picture" title="andrew.mcalorum&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            University of Toronto Libraries          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/gordonbelray">Gordon</a> <a href="users/gordonbelray">Belray</a> <div class="user-picture"><a href="users/gordonbelray" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="gordon.belray&#039;s picture" title="gordon.belray&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            University of Toronto Libraries          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/bilalkhalid">Bilal</a> <a href="users/bilalkhalid">Khalid</a> <div class="user-picture"><a href="users/bilalkhalid" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="bilal.khalid&#039;s picture" title="bilal.khalid&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            University of Toronto Libraries          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/orlandomarquez">Orlando</a> <a href="users/orlandomarquez">Marquez</a> <div class="user-picture"><a href="users/orlandomarquez" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="orlando.marquez&#039;s picture" title="orlando.marquez&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+            University of Toronto Libraries          </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/rreeves">Robert</a> <a href="users/rreeves">Reeves</a> <div class="user-picture"><a href="users/rreeves" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="rreeves&#039;s picture" title="rreeves&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-value-4">
+            <a href="users/afoster">Aidan</a> <a href="users/afoster">Foster</a> <div class="user-picture"><a href="users/afoster" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="afoster&#039;s picture" title="afoster&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+            <a href="users/afoster">Owner</a>          </td>
+                  <td class="views-field views-field-value-3 active">
+            Foster Interactive Inc.          </td>
+                  <td class="views-field views-field-value">
+            Responsive Design, Mobile First, Drupal          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-value-4">
+            <a href="users/3emad">Emad</a> <a href="users/3emad">Al-Shihabi</a> <div class="user-picture"><a href="users/3emad" title="View user profile."><img src="sites/default/files/avatar-not-available.png" alt="3emad&#039;s picture" title="3emad&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-value-4">
+            <a href="users/chris-luckhardt">Chris</a> <a href="users/chris-luckhardt">Luckhardt</a> <div class="user-picture"><a href="users/chris-luckhardt" title="View user profile."><img src="sites/default/files/pictures/picture-3.jpg" alt="Chris Luckhardt&#039;s picture" title="Chris Luckhardt&#039;s picture"  /></a></div>          </td>
+                  <td class="views-field views-field-value-1">
+                      </td>
+                  <td class="views-field views-field-value-3 active">
+                      </td>
+                  <td class="views-field views-field-value">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first"><a href="attendees?order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to first page" class="active">« first</a></li><li class="pager-previous"><a href="attendees?page=3&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to previous page" class="active">‹ previous</a></li><li class="pager-item"><a href="attendees?order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 1" class="active">1</a></li><li class="pager-item"><a href="attendees?page=1&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 2" class="active">2</a></li><li class="pager-item"><a href="attendees?page=2&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 3" class="active">3</a></li><li class="pager-item"><a href="attendees?page=3&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 4" class="active">4</a></li><li class="pager-current">5</li><li class="pager-item"><a href="attendees?page=5&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 6" class="active">6</a></li><li class="pager-item"><a href="attendees?page=6&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 7" class="active">7</a></li><li class="pager-item"><a href="attendees?page=7&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to page 8" class="active">8</a></li><li class="pager-next"><a href="attendees?page=5&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to next page" class="active">next ›</a></li><li class="pager-last"><a href="attendees?page=7&amp;order=value_3&amp;sort=asc&amp;value_4=&amp;value_5=&amp;job_title=&amp;organization=&amp;interests=" title="Go to last page" class="active">last »</a></li></ul></div>  
+  
+  
+  
+  
+</div> </div>
+
+        </div> <!-- /main-content -->
+
+        
+      </div></div> <!-- /content-column -->
+
+          
+                      <div id="sidebar-last" class="sidebar">  <div id="block-views-Sponsors-block_8" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_8 sponsor-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/myplanet-digital">MyPlanet Digital</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/myplanet-digital"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-platinum-myplanetdigital_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_1" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_1 sponsor-block view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/digital-echidna">Digital Echidna</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/digital-echidna"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-digitalechidna_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-user-0" class="block block-user">
+  <div class="block-inner">
+          <h2 class="title block-title">User login</h2>
+        <div class="content block-content"><form action="http://2012.drupalcamptoronto.org/attendees?destination=attendees%3Fpage%3D4%26order%3Dvalue_3%26sort%3Dasc%26value_4%3D%26value_5%3D%26job_title%3D%26organization%3D%26interests%3D"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="button-wrapper edit-submit"><span class="button"><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" /></span></span>
+<div class="item-list"><ul><li><a href="user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_build_id" id="form-164951d65d18c4274780b76f5ff80fe7" value="form-164951d65d18c4274780b76f5ff80fe7"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+      </div>
+</div>
+</div>
+                      
+            
+
+        </div></div> <!-- /columns -->
+
+                  <div id="tertiary-content">  <div id="block-views-Sponsors-block_4" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Platinum Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_4 sponsor-block view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/myplanet-digital">MyPlanet Digital</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/myplanet-digital"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-platinum-myplanetdigital_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_5" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Gold Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_5 sponsor-block view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/digital-echidna">Digital Echidna</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/digital-echidna"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-gold-digitalechidna_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_6" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Silver Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_6 sponsor-block view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/2bitscom">2bits.com</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/2bitscom"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-silver-2bits_0.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+  <div id="block-views-Sponsors-block_7" class="block block-views">
+  <div class="block-inner">
+          <h2 class="title block-title">Bronze Sponsor</h2>
+        <div class="content block-content"><div class="view view-Sponsors view-id-Sponsors view-display-id-block_7 sponsor-block view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="sponsorships/verge-interactive">Verge Interactive</a></span>
+  </div>
+  
+  <div class="views-field-field-sponsor-logo-fid">
+                <span class="field-content"><a href="sponsorships/verge-interactive"><img  class="imagefield imagefield-field_sponsor_logo" width="200" height="125" alt="" src="sites/default/files/sponsorship-bronze-vergeinteractive.jpg" /></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+      </div>
+</div>
+</div>
+            </div>
+
+    
+          <div id="footer">
+
+        
+                  <div id="footer-message"><p>DrupalCamp Toronto 2012 is a production of the non-profit <a href="http://groups.drupal.org/toronto">Toronto Drupal User Group</a>.</p>
+<p>Built with <a href="http://usecod.com">COD</a>, the open source conference and event management solution.</p>
+<p><a href="http://content.getpantheon.com/powered-by-pantheon.html"><img alt="" class="pantheon" src="sites/default/files/images/pantheon.png" /></a></p>
+</div>
+        
+        <!--
+                -->
+
+      </div> <!-- /footer -->
+    
+  </div> <!-- /page -->
+
+  
+  <script src="http://static.getclicky.com/js" type="text/javascript"></script>
+  <script type="text/javascript"><!--//--><![CDATA[//><!--
+  clicky.init(66630854);
+  //--><!]]></script>
+  <noscript><p><img alt="Clicky" src="http://static.getclicky.com/66630854ns.gif" /></p></noscript></div> <!-- /page-wrapper -->
+</body>
+</html>

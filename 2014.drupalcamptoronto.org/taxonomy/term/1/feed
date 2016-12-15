@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.drupalcamptoronto.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Toronto 2014 - Platinum</title>
+ <link>http://2014.drupalcamptoronto.org/sponsorship-level/platinum</link>
+ <description>Platinum sponsorship level.
+</description>
+ <language>en</language>
+<item>
+ <title>Therefore Interactive</title>
+ <link>http://2014.drupalcamptoronto.org/sponsors/therefore-interactive</link>
+ <description>&lt;section class=&quot;field field-name-field-sponsor-logo field-type-image field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Logo:&amp;nbsp;&lt;/h2&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;figure class=&quot;clearfix field-item even&quot;&gt;&lt;img class=&quot;image-style-none&quot; src=&quot;http://2014.drupalcamptoronto.org/sites/default/files/logo-therefore-interactive.png&quot; width=&quot;220&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;field field-name-field-sponsor-url field-type-link-field field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Sponsor URL:&amp;nbsp;&lt;/h2&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://therefore.ca&quot; target=&quot;_blank&quot;&gt;Therefore Interactive&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;field field-name-field-sponsor-body field-type-text-with-summary field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Description:&amp;nbsp;&lt;/h2&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Therefore Interactive is a digital firm located in Toronto that specializes in adaptive designs, cross device content, accessibility, and open source technologies, such as Drupal. Our 15 person team is a fusion of business digital strategists, UX/UI designers and developers. Our goal is to bring as much value and meaning to the work we do for our clients as possible. We pride ourselves on being easy to work with, creative thinkers and experts in what we do.&lt;/p&gt;
+
+&lt;p&gt;Therefore is Agile process driven. We collaborate with your team of business owners to quickly develop high priority business value through an iterative development process. We also enjoy working in alignment with other like minded agencies and firms. For over 10 years now Therefore has been developing long lasting relationships in the GTA.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;field field-name-field-sponsorship-level field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Sponsorship level:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsorship-level/platinum&quot;&gt;Platinum&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;section class=&quot;field field-name-field-sponsor-sponsorship-level field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsorship-level/platinum&quot;&gt;Platinum&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;</description>
+ <pubDate>Mon, 17 Mar 2014 01:49:18 +0000</pubDate>
+ <dc:creator>drupal</dc:creator>
+ <guid isPermaLink="false">6 at http://2014.drupalcamptoronto.org</guid>
+ <comments>http://2014.drupalcamptoronto.org/sponsors/therefore-interactive#comments</comments>
+</item>
+</channel>
+</rss>

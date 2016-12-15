@@ -1,0 +1,5 @@
+for i in `cat x`
+do
+  mv $i bak
+  sed -ne 's/?nrz1w0//' bak $i
+done

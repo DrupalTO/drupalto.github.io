@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>General Questions and Discussion | DrupalCamp Toronto 2008</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/print.css" type="text/css" media="print" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS - General Questions and Discussion" href="../taxonomy/term/1/0/feed" />
+
+<link rel="shortcut icon" href="../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/favicon.ico" type="image/x-icon" />
+  <style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/fivestar/css/fivestar.css";</style>
+<style type="text/css" media="all">@import "../modules/node/node.css";</style>
+<style type="text/css" media="all">@import "../modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "../modules/system/system.css";</style>
+<style type="text/css" media="all">@import "../modules/user/user.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "../modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/style.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/tabs.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/html-elements.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/layout-garland.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/icons.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/zen-dcto.css";</style>
+<style type="text/css" media="all">@import "../sites/2008.drupalcamptoronto.org/themes/zen/block-editing.css";</style>
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/ie.css" type="text/css">
+          <link rel="stylesheet" href="/sites/2008.drupalcamptoronto.org/themes/zen/zen_dcto/ie.css" type="text/css">
+      <![endif]-->
+  <script type="text/javascript" src="../misc/jquery.js"></script>
+<script type="text/javascript" src="../misc/drupal.js"></script>
+<script type="text/javascript" src="../sites/2008.drupalcamptoronto.org/modules/fivestar/js/fivestar.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." } } });</script>
+</head>
+
+<body class="not-front not-logged-in two-sidebars page-forum-1 section-forum">
+  <div id="page">
+    <div id="header">
+
+      <div id="skip-nav"><a href="1?sort=desc&amp;order=Replies#content">Skip to Main Content</a></div>
+
+      <div id="logo-title">
+
+        <form action="1?sort=desc&amp;order=Replies"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item" id="edit-search-theme-form-keys-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+</div></form>
+                  <a href="../index.html" title="Home" rel="home">
+            <img src="../sites/2008.drupalcamptoronto.org/files/zen_dcto_logo.png" alt="Home" id="logo" />
+          </a>
+        
+        <div id="name-and-slogan">
+
+                  <div id='site-name'><strong>
+            <a href="../index.html" title="Home" rel="home">
+              DrupalCamp Toronto 2008            </a>
+          </strong></div>
+        
+        
+        </div> <!-- /name-and-slogan -->
+
+      </div> <!-- /logo-title -->
+
+      <div id="navigation" class="menu withprimary ">
+                  <div id="primary" class="clear-block">
+            <ul class="links"><li  class="first menu-1-1-2"><a href="../announcements" class="menu-1-1-2">Announcements</a></li>
+<li  class="menu-1-2-2"><a href="../attendees" class="menu-1-2-2">Attendees</a></li>
+<li  class="menu-1-3-2-active"><a href="../forum" class="menu-1-3-2-active">Forums</a></li>
+<li  class="menu-1-4-2"><a href="../sessions" class="menu-1-4-2">Sessions</a></li>
+<li  class="menu-1-5-2"><a href="../sponsors" class="menu-1-5-2">Sponsors</a></li>
+<li  class="last menu-1-6-2"><a href="../contact" class="menu-1-6-2">Contact</a></li>
+</ul>          </div>
+        
+              </div> <!-- /navigation -->
+
+              <div id="header-region">
+          <div class="breadcrumb"><a href="../index.html">Home</a> :: <a href="../forum">Forums</a></div>                  </div> <!-- /header-region -->
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clear-block">
+
+              <div id="sidebar-left" class="column sidebar">
+          <div id="block-block-1" class="block block-block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+      <h2 class="title">Archive Notice</h2>
+  
+  <div class="content">
+    <p>This site has been archived. You should visit our <a href="http://drupalcamptoronto.org">brand-spankin' new site</a>!</p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-sponsor_block" class="block block-views region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Sponsors</h2>
+  
+  <div class="content">
+    <div class='view view-sponsor-block'><div class='view-content view-content-sponsor-block'><a href="http://happyworker.com"><img src="../sites/2008.drupalcamptoronto.org/files/happy-worker-logo-web.png" alt="" title="happy-worker-logo-web.png" width="285" height="90" class="imagefield imagefield-field_logo" /></a></div></div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-attendee_block" class="block block-views region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">Registrations</h2>
+  
+  <div class="content">
+    <div class='view view-attendee-block'><div class='view-header view-header-attendee-block'>Current count: 159</div>
+<div class='view-content view-content-attendee-block'><div class="item-list"><ul><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/fieldfirstname-formatted-fieldlastname-formatted">[field_first_name-formatted] [field_last_name-formatted]</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/jeff-kramp">Jeff Kramp</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/hh-dd">HH DD</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/kaustubh-gadekar">Kaustubh Gadekar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/rajat-gupta">Rajat Gupta</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/abdullah-bakhach">Abdullah Bakhach</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/jayson-ng">Jayson Ng</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/edith-ying">Edith Ying</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/ben-vinegar">Ben Vinegar</a></div></div>
+</li><li><div class='view-item view-item-attendee-block'><div class='view-field view-data-node-title'><a href="../content/richard-budman">Richard Budman</a></div></div>
+</li></ul></div></div><div class='view-footer view-footer-attendee-block'><p>[<a href="../attendees">view all</a>]</p>
+</div>
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-left -->
+      
+      <div id="main" class="column"><div id="squeeze" class="clear-block">
+                        <div id="content">
+                      <h1 class="title">General Questions and Discussion</h1>
+                                                  <div id="forum"><ul><li><a href="../user/login?destination=forum%252F1%253Fsort%253Ddesc%2526order%253DReplies">Login</a> to post a new forum topic.</li></ul><table>
+ <thead><tr><th field="">&nbsp;</th><th><a href="1?sort=asc&amp;order=Topic" title="sort by Topic" class="active">Topic</a></th><th class="active"><a href="1?sort=asc&amp;order=Replies" title="sort by Replies" class="active">Replies<img src="../misc/arrow-asc.png" alt="sort icon" title="sort ascending" width="13" height="13" /></a></th><th><a href="1?sort=asc&amp;order=Created" title="sort by Created" class="active">Created</a></th><th><a href="1?sort=asc&amp;order=Last+reply" title="sort by Last reply" class="active">Last reply</a></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/recomendations-hotels">recomendations for hotels?</a></td><td class="replies active">50</td><td class="created">4 years 21 weeks ago<br />by <a href="../content/arvin-singla" title="View user profile.">tkamen</a></td><td class="last-reply">1 year 17 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/drupal-developer-with-seo-expertise-wanted">Drupal Developer with SEO expertise wanted</a></td><td class="replies active">44</td><td class="created">4 years 19 weeks ago<br />by <a href="../content/sameer-valimohamed" title="View user profile.">sameer</a></td><td class="last-reply">1 year 14 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/drupal-6-social-networking">Drupal 6 Social Networking</a></td><td class="replies active">39</td><td class="created">3 years 19 weeks ago<br />by Anonymous</td><td class="last-reply">1 year 12 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/whottjoirty">whottJoirty</a></td><td class="replies active">26</td><td class="created">3 years 10 weeks ago<br />by Anonymous</td><td class="last-reply">1 year 12 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/commuting-montreal">Commuting from Montreal</a></td><td class="replies active">24</td><td class="created">4 years 20 weeks ago<br />by <a href="../users/caroline" title="View user profile.">Caroline</a></td><td class="last-reply">1 year 11 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/thanks-a-great-2-day-drupalcamp">Thanks for a great 2-day DrupalCamp!</a></td><td class="replies active">18</td><td class="created">4 years 18 weeks ago<br />by <a href="../content/philip-kiff" title="View user profile.">pkiff</a></td><td class="last-reply">1 year 17 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/jquery-slides">JQuery slides?</a></td><td class="replies active">16</td><td class="created">4 years 18 weeks ago<br />by <a href="../content/julian-egelstaff" title="View user profile.">jegelstaff</a></td><td class="last-reply">1 year 11 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/drupal-developers-wanted">Drupal developers wanted</a></td><td class="replies active">13</td><td class="created">3 years 2 weeks ago<br />by <a href="../content/sara-maclean" title="View user profile.">maclean</a></td><td class="last-reply">1 year 12 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/whats-registration-fee">What&#039;s the registration fee?</a></td><td class="replies active">9</td><td class="created">4 years 20 weeks ago<br />by <a href="../content/lee-hunter" title="View user profile.">LeeHunter</a></td><td class="last-reply">1 year 18 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/why-frisat-vs-satsun">Why Fri/Sat vs Sat/Sun?</a></td><td class="replies active">8</td><td class="created">4 years 19 weeks ago<br />by <a href="../content/craig-garrett" title="View user profile.">clgarret</a></td><td class="last-reply">1 year 18 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="odd"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/help-wanted-jquery">Help Wanted - jQuery</a></td><td class="replies active">5</td><td class="created">3 years 50 weeks ago<br />by <a href="../content/sara-maclean" title="View user profile.">maclean</a></td><td class="last-reply">1 year 23 weeks ago<br />by Anonymous</td> </tr>
+ <tr class="even"><td class="icon"><img src="../misc/forum-closed.png" alt="" title="" width="16" height="16" /></td><td class="topic"><a href="../content/whats-final-schedulesessions">What&#039;s the final Schedule/Sessions?</a></td><td class="replies active">5</td><td class="created">4 years 19 weeks ago<br />by <a href="../content/jayson-ng" title="View user profile.">jayson</a></td><td class="last-reply">1 year 12 weeks ago<br />by Anonymous</td> </tr>
+</tbody>
+</table>
+</div>                      <div class="feed-icons"><a href="../taxonomy/term/1/0/feed" class="feed-icon"><img src="../misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a></div>
+                  </div> <!-- /content -->
+              </div></div> <!-- /squeeze /main -->
+
+              <div id="sidebar-right" class="column sidebar">
+          <div id="block-forum-0" class="block block-forum region-odd even region-count-1 count-4"><div class="block-inner">
+
+      <h2 class="title">Active forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li><a href="../content/jquery-slides" title="16 comments">JQuery slides?</a></li><li><a href="../content/commuting-montreal" title="24 comments">Commuting from Montreal</a></li><li><a href="../content/drupal-developers-wanted" title="13 comments">Drupal developers wanted</a></li><li><a href="../content/whottjoirty" title="26 comments">whottJoirty</a></li><li><a href="../content/whats-final-schedulesessions" title="5 comments">What&#039;s the final Schedule/Sessions?</a></li></ul></div><div class="more-link"><a href="../forum" title="Read the latest forum topics.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /sidebar-right -->
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+        
+      </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+    
+    
+  </div> <!-- /page -->
+
+</body>
+</html>

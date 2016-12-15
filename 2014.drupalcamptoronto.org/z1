@@ -1,0 +1,5 @@
+for FILE in `cat x2`
+do
+  sed -e 's/?itok=.*"/"/' "$FILE" > tmp
+  mv tmp "$FILE"
+done

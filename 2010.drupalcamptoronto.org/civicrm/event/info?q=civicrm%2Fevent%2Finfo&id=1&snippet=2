@@ -1,0 +1,161 @@
+
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <base href="" /><!--[if IE]></base><![endif]-->
+  <style type="text/css" media="screen, print">@import url(../../sites/all/modules/civicrm/css/civicrm.css);</style>
+  <style type="text/css" media="screen, print">@import url(../../sites/all/modules/civicrm/css/extras.css);</style>
+  <style type="text/css" media="print">@import url(../../sites/all/modules/civicrm/css/print.css);</style>
+  <style type="text/css">@import url(http://2010.drupalcamptoronto.org/sites/all/modules/civicrm/css/skins/aqua/theme.css);</style>
+  <script type="text/javascript" src="../../sites/all/modules/civicrm/js/Common.js"></script>
+</head>
+
+<body>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/jquery.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/jquery-ui.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/themes/smoothness/jquery-ui.css");</style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/flexigrid.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/flexigrid.css");</style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.autocomplete.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/jquery.autocomplete.css");</style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/tree_component.min.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/css.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/tree_component.css");</style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.menu.pack.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.dimensions.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/menu.css");</style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.chainedSelects.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.treeview.min.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.bgiframe.pack.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.contextMenu.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.tableHeader.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/checkboxselect.js"></script>
+
+    <script type="text/javascript" src="../../sites/all/modules/civicrm/packages/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.textarearesizer.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.progressbar.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.form.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.tokeninput.js"></script>
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/token-input-facebook.css");></style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.timeentry.pack.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.mousewheel.pack.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.toolTip.js"></script>
+
+<style type="text/css">@import url("../../sites/all/modules/civicrm/packages/jquery/css/dataTable.css");></style>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.dataTables.min.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.dashboard.js"></script>
+<style type="text/css">@import url(../../sites/all/modules/civicrm/packages/jquery/css/dashboard.css);></style>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/packages/jquery/plugins/jquery.FormNavigate.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/js/rest.js"></script>
+
+<script type="text/javascript" src="../../sites/all/modules/civicrm/js/jquery/jquery.crmaccordions.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/js/jquery/jquery.crmasmselect.js"></script>
+<script type="text/javascript" src="../../sites/all/modules/civicrm/js/jquery/jquery.crmtooltip.js"></script>
+
+<!--[if !(IE 8)]>
+<script type="text/javascript" src="/sites/all/modules/civicrm/js/dd_roundies.js"></script>
+<script type="text/javascript" src="/sites/all/modules/civicrm/js/style.js"></script>
+<![endif]-->
+
+<script type="text/javascript">var cj = jQuery.noConflict(); $ = cj;</script><div id="crm-container" lang="en" xml:lang="en">
+
+
+<!-- .tpl file invoked: CRM/Event/Page/EventInfo.tpl. Call via form.tpl if we have a form in the page. -->
+    
+<div class="spacer"></div>
+<div class="messages status">
+  <div class="icon inform-icon"></div>
+     &nbsp;Registration is closed for this event  </div>
+<div class="vevent crm-block crm-event-info-form-block">
+	<div class="event-info">
+	
+		    <div class="crm-section event_summary-section">DrupalCamp Toronto is an unconference-style Drupal training, founded in the style of BarCamp. While there are some differences (DrupalCamp does more pre-planning on the sessions), they have the common goal of bringing smart people together in an environment that is accessible to everyone.</div>
+			    <div class="crm-section event_description-section summary"><p>
+	DrupalCamp Toronto is an unconference-style Drupal training, founded in the style of <a href="http://en.wikipedia.org/wiki/BarCamp" rel="nofollow" target="_blank">BarCamp</a>. While there are some differences (DrupalCamp does more pre-planning on the sessions), they have the common goal of bringing smart people together in an environment that is accessible to everyone.</p>
+<p>
+	This generally means that you will have <em>a lot of very smart people</em> in a <span style="font-size: smaller;">small space</span> who have all come there with something to share and a desire to learn. Since this is a <em>free+cheap</em> event and on a weekend, we also get to welcome folks who can&rsquo;t usually take the time or money to go to commercial conferences &ndash; so it&rsquo;s a lot of fun with fresh faces.</p>
+<p>
+	Since this is a low cost event and entirely volunteer run (and no, this is not our day job), we also expect active participation from everyone when it comes to running the conference. This is as simple as picking up after yourself or actively fixing something if you see it&rsquo;s broken, but please feel welcome to take an active role in making this a great event. We set the stage, but all of you make this happen!</p</div>
+		<div class="crm-section event_date_time-section">
+	    <div class="label"><label>When</label></div>
+	    <div class="content">
+            <abbr class="dtstart" title="October 15th, 2010  8:00 AM">
+            October 15th, 2010  8:00 AM</abbr>
+                            &nbsp; through &nbsp;
+                                                    <abbr class="dtend" title="October 16th, 2010  6:00 PM">
+                    October 16th, 2010  6:00 PM
+                    </abbr> 	
+                                    </div>
+		<div class="clear"></div>
+	</div>
+			    
+	
+                    <div class="crm-section event_address-section">
+                <div class="label"><label>Location</label></div>
+                <div class="content"><div class="location vcard"><span class="adr"><span class="street-address">789 Yonge St</span><br />
+<span class="extended-address">Toronto Reference Library</span><br />
+<span class="locality">Toronto</span>, <span class="region">ON</span> <span class="postal-code">M4W 2G8</span><br />
+<span class="country-name">Canada</span></span></div></div>
+                <div class="clear"></div>
+            </div>
+        
+	    
+	  
+
+
+	
+    
+		    <div class="crm-section event_fees-section">
+	        <div class="label"><label>Event Fee(s)</label></div>
+	        <div class="content">
+	            <table class="form-layout-compressed fee_block-table">
+	                	                    	                    	                        	                    	                    <tr>
+	                        <td class="price_set_option_group-label crm-event-label">Days Attending</td>
+	                        <td class="fee_amount-value right"></td>
+	                    </tr>
+	                	                    	                    	                        	                    	                    <tr>
+	                        <td class="price_set_option-label crm-event-label">Friday October 15th</td>
+	                        <td class="fee_amount-value right">$ 25.00</td>
+	                    </tr>
+	                	                    	                    	                        	                    	                    <tr>
+	                        <td class="price_set_option-label crm-event-label">Saturday October 16th</td>
+	                        <td class="fee_amount-value right">$ 25.00</td>
+	                    </tr>
+	                	            </table>
+	        </div>
+	        <div class="clear"></div>
+	    </div>
+	
+
+        
+	<script type="text/javascript">
+	cj(function() {
+        cj().crmaccordions(); 
+        });
+	</script>
+    
+        
+	            <br /><div class="action-link section iCal_links-section">
+    <a href="ical?reset=1&amp;id=1" title="Download iCalendar entry for this event."><img src="../../sites/all/modules/civicrm/i/office-calendar.png" alt="Download iCalendar entry for this event."></a>&nbsp;&nbsp;<a href="ical?reset=1&amp;page=1&amp;id=1" title="iCalendar feed for this event."><img src="../../sites/all/modules/civicrm/i/ical_feed.gif" alt="iCalendar feed for this event." style="margin-bottom: 4px;" /></a> 
+</div>        
+    </div>
+</div>
+
+</div> </body>
+</html>    
